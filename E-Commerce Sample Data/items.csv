@@ -1,0 +1,1001 @@
+,adjective,category,created_at,id,modifier,name,price
+0,fuzzy,contraption,2014-01-15 21:36:09,2512.0,carrying_case,fuzzy contraption carrying_case,150.0
+1,,instrument,2013-05-14 05:20:50,482.0,refill,instrument refill,35.2
+2,industrial-strength,module,2014-02-04 19:28:32,2446.0,,industrial-strength module,300.0
+3,digital,tool,2013-02-25 12:23:18,1312.0,carrying_case,digital tool carrying_case,16.5
+4,miniature,device,2013-08-05 17:20:45,3556.0,cleaner,miniature device cleaner,16.5
+5,rechargable,contraption,2013-09-12 06:27:01,131.0,cleaner,rechargable contraption cleaner,195.0
+6,,instrument,2013-10-07 09:38:14,1178.0,how-to-manual,instrument how-to-manual,0.0
+7,prize-winning,mechanism,2013-09-09 09:32:18,110.0,storage_unit,prize-winning mechanism storage_unit,41.25
+8,,mechanism,2013-10-25 22:53:25,47.0,,mechanism,15.0
+9,organic,tool,2013-05-10 10:19:33,1696.0,,organic tool,37.5
+10,fuzzy,module,2013-04-19 01:40:40,3196.0,refill,fuzzy module refill,80.0
+11,fuzzy,device,2013-05-20 18:29:18,1578.0,refill,fuzzy device refill,40.0
+12,reflective,widget,2013-06-14 03:32:39,0.0,charger,reflective widget charger,0.7800000000000001
+13,organic,tool,2013-09-09 11:36:06,107.0,how-to-manual,organic tool how-to-manual,0.0
+14,,apparatus,2013-03-15 18:14:19,487.0,charger,apparatus charger,60.0
+15,industrial-strength,gadget,2013-03-17 19:01:27,1777.0,refill,industrial-strength gadget refill,213.6
+16,aerodynamic,mechanism,2013-07-07 12:28:26,1132.0,,aerodynamic mechanism,21.0
+17,industrial-strength,apparatus,2013-11-03 01:04:42,3328.0,carrying_case,industrial-strength apparatus carrying_case,540.0
+18,,mechanism,2013-03-31 08:15:04,3044.0,,mechanism,15.0
+19,miniature,tool,2013-03-13 05:43:14,246.0,,miniature tool,13.750000000000002
+20,prize-winning,gadget,2013-10-29 11:50:25,3480.0,wrapper,prize-winning gadget wrapper,39.16
+21,,tool,2014-01-02 05:47:17,1975.0,refill,tool refill,20.0
+22,,mechanism,2013-06-25 11:24:00,2722.0,,mechanism,15.0
+23,reflective,mechanism,2014-01-21 07:14:49,1602.0,how-to-manual,reflective mechanism how-to-manual,0.0
+24,analog,mechanism,2013-06-19 21:43:13,3141.0,,analog mechanism,13.5
+25,extra-strength,mechanism,2013-03-06 20:29:40,1411.0,charger,extra-strength mechanism charger,6.0
+26,rechargable,dongle,2013-05-27 23:38:40,3439.0,,rechargable dongle,39.0
+27,organic,mechanism,2013-10-05 16:02:03,2134.0,,organic mechanism,22.5
+28,matte,widget,2013-03-16 00:16:33,2389.0,how-to-manual,matte widget how-to-manual,0.0
+29,analog,gadget,2013-11-07 02:18:07,226.0,carrying_case,analog gadget carrying_case,48.06
+30,fuzzy,dongle,2014-01-27 09:19:42,2545.0,cleaner,fuzzy dongle cleaner,18.0
+31,rechargable,dongle,2013-03-16 00:54:44,1732.0,how-to-manual,rechargable dongle how-to-manual,0.0
+32,,mechanism,2014-01-16 02:42:00,3934.0,carrying_case,mechanism carrying_case,9.0
+33,fuzzy,dongle,2013-04-17 03:12:22,504.0,warmer,fuzzy dongle warmer,33.0
+34,extra-strength,apparatus,2013-11-20 20:29:11,23.0,charger,extra-strength apparatus charger,120.0
+35,matte,contraption,2013-09-02 20:34:50,1730.0,,matte contraption,312.5
+36,prize-winning,apparatus,2013-12-23 17:55:49,3290.0,cleaner,prize-winning apparatus cleaner,198.00000000000003
+37,aerodynamic,widget,2013-12-20 14:22:06,2498.0,,aerodynamic widget,4.199999999999999
+38,extra-strength,apparatus,2013-10-17 09:50:03,459.0,opener,extra-strength apparatus opener,300.0
+39,matte,apparatus,2013-05-07 17:28:21,2309.0,how-to-manual,matte apparatus how-to-manual,0.0
+40,fuzzy,module,2013-08-26 10:31:15,1074.0,refill,fuzzy module refill,80.0
+41,aerodynamic,contraption,2013-09-02 23:22:17,1391.0,charger,aerodynamic contraption charger,70.0
+42,digital,mechanism,2013-07-15 16:00:39,1403.0,,digital mechanism,16.5
+43,digital,apparatus,2013-07-05 23:33:51,3460.0,,digital apparatus,330.0
+44,matte,mechanism,2013-10-10 03:26:07,549.0,wrapper,matte mechanism wrapper,7.5
+45,digital,widget,2013-03-22 10:55:24,1271.0,wrapper,digital widget wrapper,1.3200000000000005
+46,,widget,2013-12-15 16:19:44,2296.0,charger,widget charger,0.6000000000000001
+47,prize-winning,gadget,2013-03-09 06:13:58,862.0,storage_unit,prize-winning gadget storage_unit,244.75000000000003
+48,prize-winning,instrument,2013-10-28 03:54:54,53.0,,prize-winning instrument,48.400000000000006
+49,prize-winning,tool,2013-04-25 21:31:50,1872.0,,prize-winning tool,27.500000000000004
+50,miniature,apparatus,2013-07-15 19:48:33,3134.0,cleaner,miniature apparatus cleaner,99.0
+51,fuzzy,apparatus,2013-02-23 13:06:36,2993.0,,fuzzy apparatus,300.0
+52,extra-strength,device,2013-02-26 20:46:37,1590.0,storage_unit,extra-strength device storage_unit,250.0
+53,analog,apparatus,2013-08-14 00:14:16,3057.0,,analog apparatus,270.0
+54,extra-strength,instrument,2013-12-17 09:39:55,1756.0,how-to-manual,extra-strength instrument how-to-manual,0.0
+55,matte,instrument,2013-11-18 09:55:47,3119.0,,matte instrument,55.0
+56,prize-winning,tool,2013-11-15 10:30:33,2393.0,,prize-winning tool,27.500000000000004
+57,,widget,2013-06-11 11:03:27,212.0,opener,widget opener,1.5
+58,glossy,mechanism,2013-03-03 18:19:57,735.0,carrying_case,glossy mechanism carrying_case,10.8
+59,glossy,instrument,2013-05-20 23:58:15,3544.0,cleaner,glossy instrument cleaner,31.68
+60,glossy,mechanism,2013-03-21 06:35:11,3990.0,,glossy mechanism,18.0
+61,matte,gadget,2014-01-30 17:15:13,917.0,charger,matte gadget charger,22.25
+62,extra-strength,device,2013-07-15 20:13:43,77.0,,extra-strength device,100.0
+63,digital,device,2014-01-02 04:08:45,2213.0,warmer,digital device warmer,60.500000000000014
+64,,dongle,2013-05-25 13:37:04,2493.0,,dongle,30.0
+65,rechargable,contraption,2013-09-16 14:58:03,3070.0,wrapper,rechargable contraption wrapper,130.0
+66,,instrument,2013-07-23 21:03:59,1569.0,,instrument,44.0
+67,prize-winning,gadget,2013-07-01 14:17:49,1690.0,charger,prize-winning gadget charger,19.58
+68,fuzzy,module,2013-06-24 07:31:17,3447.0,refill,fuzzy module refill,80.0
+69,rechargable,gadget,2013-12-22 19:32:31,33.0,,rechargable gadget,115.7
+70,fuzzy,apparatus,2013-09-27 22:12:39,1838.0,,fuzzy apparatus,300.0
+71,fuzzy,gadget,2013-06-01 16:37:26,2152.0,wrapper,fuzzy gadget wrapper,35.6
+72,aerodynamic,contraption,2013-05-23 17:08:57,204.0,cleaner,aerodynamic contraption cleaner,210.0
+73,matte,mechanism,2013-08-29 04:11:12,1039.0,,matte mechanism,18.75
+74,digital,contraption,2013-03-30 21:56:50,3577.0,,digital contraption,275.0
+75,extra-strength,device,2013-11-08 11:41:49,2567.0,,extra-strength device,100.0
+76,matte,device,2013-12-11 04:07:40,3427.0,charger,matte device charger,12.5
+77,digital,tool,2014-01-20 17:27:59,2622.0,charger,digital tool charger,5.5
+78,rechargable,mechanism,2014-01-21 13:08:34,2601.0,cleaner,rechargable mechanism cleaner,11.7
+79,digital,tool,2014-01-26 12:45:24,1007.0,,digital tool,27.500000000000004
+80,industrial-strength,mechanism,2014-01-17 03:01:38,2114.0,charger,industrial-strength mechanism charger,9.0
+81,reflective,instrument,2014-01-11 02:00:17,2627.0,,reflective instrument,57.2
+82,digital,instrument,2013-05-16 03:58:52,979.0,storage_unit,digital instrument storage_unit,121.0
+83,prize-winning,gadget,2013-03-19 16:32:16,2178.0,warmer,prize-winning gadget warmer,107.69
+84,reflective,gadget,2013-04-20 03:43:10,864.0,how-to-manual,reflective gadget how-to-manual,0.0
+85,fuzzy,mechanism,2013-08-23 11:47:45,2153.0,,fuzzy mechanism,15.0
+86,organic,device,2013-06-14 02:24:10,2121.0,,organic device,75.0
+87,reflective,module,2013-03-19 01:05:39,3904.0,opener,reflective module opener,65.0
+88,analog,module,2013-09-20 09:57:25,3984.0,,analog module,90.0
+89,digital,instrument,2013-03-27 09:27:27,1648.0,warmer,digital instrument warmer,53.24000000000001
+90,fuzzy,gadget,2013-08-24 19:01:07,2479.0,storage_unit,fuzzy gadget storage_unit,222.5
+91,extra-strength,mechanism,2014-01-02 12:47:19,2531.0,,extra-strength mechanism,30.0
+92,,instrument,2013-11-29 18:12:14,586.0,,instrument,44.0
+93,extra-strength,instrument,2014-02-05 05:32:18,224.0,warmer,extra-strength instrument warmer,96.8
+94,aerodynamic,dongle,2013-06-09 09:07:41,2062.0,,aerodynamic dongle,42.0
+95,digital,module,2013-07-29 08:26:35,3610.0,,digital module,110.0
+96,miniature,tool,2013-12-11 06:55:38,1205.0,carrying_case,miniature tool carrying_case,8.25
+97,digital,tool,2013-08-05 08:10:05,1585.0,,digital tool,27.500000000000004
+98,reflective,dongle,2013-03-14 07:38:27,1315.0,carrying_case,reflective dongle carrying_case,23.4
+99,organic,mechanism,2013-08-04 21:32:56,1368.0,wrapper,organic mechanism wrapper,9.0
+100,aerodynamic,widget,2013-04-08 09:29:09,703.0,wrapper,aerodynamic widget wrapper,1.6800000000000002
+101,fuzzy,tool,2013-08-20 05:59:26,2207.0,wrapper,fuzzy tool wrapper,10.0
+102,,contraption,2014-01-31 10:45:11,1979.0,storage_unit,contraption storage_unit,625.0
+103,extra-strength,gadget,2014-02-22 11:46:21,3668.0,wrapper,extra-strength gadget wrapper,71.2
+104,reflective,instrument,2014-01-15 06:20:27,3276.0,charger,reflective instrument charger,11.44
+105,rechargable,contraption,2013-07-05 09:50:29,1814.0,cleaner,rechargable contraption cleaner,195.0
+106,matte,contraption,2013-09-09 10:50:36,279.0,,matte contraption,312.5
+107,analog,apparatus,2013-12-14 10:49:13,3479.0,,analog apparatus,270.0
+108,,device,2013-07-10 03:15:23,1976.0,,device,50.0
+109,matte,gadget,2013-05-19 23:35:26,3212.0,,matte gadget,111.25
+110,analog,tool,2013-11-11 17:29:38,3728.0,warmer,analog tool warmer,24.750000000000004
+111,aerodynamic,module,2014-02-06 03:14:40,2837.0,,aerodynamic module,140.0
+112,fuzzy,apparatus,2013-09-30 17:37:11,920.0,opener,fuzzy apparatus opener,150.0
+113,prize-winning,module,2013-07-17 04:55:41,478.0,,prize-winning module,110.0
+114,fuzzy,widget,2013-06-29 05:34:39,3928.0,,fuzzy widget,3.0
+115,organic,contraption,2013-09-24 13:09:04,690.0,storage_unit,organic contraption storage_unit,937.5
+116,glossy,tool,2013-10-16 04:35:47,1198.0,opener,glossy tool opener,15.0
+117,,apparatus,2013-12-17 23:54:47,3507.0,,apparatus,300.0
+118,,instrument,2013-04-11 01:15:29,2438.0,,instrument,44.0
+119,,apparatus,2014-01-30 14:01:07,1474.0,opener,apparatus opener,150.0
+120,glossy,contraption,2013-04-08 06:44:46,3109.0,,glossy contraption,300.0
+121,rechargable,gadget,2013-08-25 03:54:03,280.0,warmer,rechargable gadget warmer,127.27
+122,industrial-strength,contraption,2013-12-18 09:01:49,518.0,,industrial-strength contraption,750.0
+123,matte,device,2013-07-04 20:04:04,1866.0,refill,matte device refill,50.0
+124,organic,device,2013-07-10 02:25:22,3442.0,,organic device,75.0
+125,prize-winning,tool,2013-03-14 15:56:20,2344.0,,prize-winning tool,27.500000000000004
+126,fuzzy,mechanism,2013-04-22 04:35:37,3720.0,opener,fuzzy mechanism opener,7.5
+127,rechargable,apparatus,2013-05-10 07:59:33,67.0,,rechargable apparatus,390.0
+128,extra-strength,instrument,2013-07-01 19:31:42,1633.0,charger,extra-strength instrument charger,17.6
+129,extra-strength,mechanism,2013-03-27 12:41:08,2623.0,,extra-strength mechanism,30.0
+130,rechargable,contraption,2013-06-16 17:14:23,1144.0,,rechargable contraption,325.0
+131,rechargable,gadget,2013-05-06 04:53:15,3842.0,how-to-manual,rechargable gadget how-to-manual,0.0
+132,extra-strength,dongle,2013-06-08 08:55:29,3615.0,refill,extra-strength dongle refill,48.0
+133,organic,tool,2013-06-24 15:10:15,1606.0,warmer,organic tool warmer,41.25000000000001
+134,,mechanism,2013-12-16 12:01:35,944.0,,mechanism,15.0
+135,reflective,widget,2013-09-21 22:52:44,1137.0,carrying_case,reflective widget carrying_case,2.34
+136,analog,contraption,2014-02-11 22:50:25,230.0,storage_unit,analog contraption storage_unit,562.5
+137,,contraption,2013-09-07 15:14:08,1055.0,,contraption,250.0
+138,digital,device,2013-09-05 19:05:16,3746.0,cleaner,digital device cleaner,33.0
+139,extra-strength,device,2013-05-31 04:39:33,2432.0,refill,extra-strength device refill,80.0
+140,analog,tool,2013-12-22 20:12:13,3449.0,warmer,analog tool warmer,24.750000000000004
+141,aerodynamic,contraption,2014-02-12 12:20:34,1903.0,opener,aerodynamic contraption opener,175.0
+142,analog,instrument,2013-06-03 23:32:07,594.0,charger,analog instrument charger,7.920000000000001
+143,prize-winning,instrument,2013-03-07 08:12:25,3808.0,opener,prize-winning instrument opener,24.200000000000003
+144,fuzzy,instrument,2014-01-01 21:29:29,3700.0,opener,fuzzy instrument opener,22.0
+145,,module,2013-04-18 13:58:39,3792.0,warmer,module warmer,110.0
+146,,mechanism,2014-02-07 23:56:38,3014.0,,mechanism,15.0
+147,organic,device,2013-07-09 03:11:11,502.0,wrapper,organic device wrapper,30.0
+148,rechargable,tool,2013-12-29 03:22:57,538.0,wrapper,rechargable tool wrapper,13.0
+149,,module,2013-12-08 23:14:47,3876.0,refill,module refill,80.0
+150,rechargable,instrument,2013-12-23 13:20:23,557.0,storage_unit,rechargable instrument storage_unit,143.0
+151,reflective,mechanism,2013-03-08 21:21:07,1485.0,carrying_case,reflective mechanism carrying_case,11.7
+152,glossy,instrument,2013-12-18 10:55:57,392.0,warmer,glossy instrument warmer,58.080000000000005
+153,analog,widget,2013-10-20 07:14:15,2754.0,,analog widget,2.7
+154,rechargable,dongle,2014-02-18 03:08:54,3987.0,,rechargable dongle,39.0
+155,,module,2013-06-05 15:18:33,3074.0,storage_unit,module storage_unit,250.0
+156,glossy,module,2014-02-14 10:47:31,3101.0,opener,glossy module opener,60.0
+157,,module,2013-05-16 03:20:34,2943.0,,module,100.0
+158,analog,widget,2013-07-02 07:05:51,1360.0,charger,analog widget charger,0.5400000000000001
+159,aerodynamic,apparatus,2014-02-19 15:28:43,2035.0,,aerodynamic apparatus,420.0
+160,industrial-strength,tool,2013-04-15 04:41:01,1273.0,cleaner,industrial-strength tool cleaner,45.0
+161,extra-strength,instrument,2014-01-23 06:06:56,1704.0,,extra-strength instrument,88.0
+162,glossy,widget,2013-05-29 01:22:19,1936.0,,glossy widget,3.6
+163,reflective,device,2013-08-05 05:43:27,759.0,,reflective device,65.0
+164,rechargable,device,2013-09-09 20:11:53,3639.0,warmer,rechargable device warmer,71.50000000000001
+165,matte,tool,2014-02-19 16:30:29,1384.0,charger,matte tool charger,6.25
+166,fuzzy,widget,2013-08-18 08:08:18,3260.0,refill,fuzzy widget refill,2.4000000000000004
+167,miniature,mechanism,2013-08-21 20:31:41,1250.0,carrying_case,miniature mechanism carrying_case,4.95
+168,rechargable,mechanism,2013-09-28 16:21:09,1364.0,,rechargable mechanism,19.5
+169,analog,apparatus,2013-05-01 12:39:16,2255.0,,analog apparatus,270.0
+170,matte,apparatus,2014-02-04 02:18:54,1067.0,,matte apparatus,375.0
+171,matte,apparatus,2013-07-02 03:36:11,1114.0,,matte apparatus,375.0
+172,rechargable,module,2013-07-22 00:04:38,3161.0,carrying_case,rechargable module carrying_case,78.0
+173,prize-winning,device,2014-01-23 11:30:46,3672.0,opener,prize-winning device opener,27.500000000000004
+174,industrial-strength,mechanism,2014-01-25 22:30:35,3675.0,carrying_case,industrial-strength mechanism carrying_case,27.0
+175,aerodynamic,dongle,2014-02-08 00:42:16,2912.0,,aerodynamic dongle,42.0
+176,matte,dongle,2013-04-17 06:33:20,2343.0,carrying_case,matte dongle carrying_case,22.5
+177,organic,instrument,2013-10-01 20:26:59,3192.0,storage_unit,organic instrument storage_unit,165.0
+178,industrial-strength,instrument,2013-03-12 14:50:04,827.0,,industrial-strength instrument,132.0
+179,glossy,apparatus,2013-12-27 19:25:09,1545.0,how-to-manual,glossy apparatus how-to-manual,0.0
+180,,widget,2013-03-24 09:04:02,3033.0,opener,widget opener,1.5
+181,digital,gadget,2013-06-03 01:35:57,3618.0,cleaner,digital gadget cleaner,58.74
+182,glossy,tool,2013-05-20 03:14:11,1536.0,cleaner,glossy tool cleaner,18.0
+183,glossy,contraption,2013-07-22 18:18:30,2422.0,,glossy contraption,300.0
+184,prize-winning,instrument,2013-10-31 21:24:26,3630.0,refill,prize-winning instrument refill,38.720000000000006
+185,reflective,device,2013-08-08 20:33:46,2903.0,how-to-manual,reflective device how-to-manual,0.0
+186,reflective,widget,2013-08-23 13:24:00,940.0,,reflective widget,3.9
+187,industrial-strength,apparatus,2013-07-28 06:30:42,2326.0,,industrial-strength apparatus,900.0
+188,,gadget,2013-06-18 03:04:37,2268.0,,gadget,89.0
+189,digital,apparatus,2013-09-19 20:22:28,3629.0,opener,digital apparatus opener,165.0
+190,glossy,contraption,2013-06-30 15:56:22,630.0,,glossy contraption,300.0
+191,glossy,dongle,2013-03-22 20:28:38,2013.0,warmer,glossy dongle warmer,39.6
+192,miniature,widget,2013-04-25 07:42:11,3190.0,charger,miniature widget charger,0.33
+193,analog,module,2013-08-15 05:51:31,3388.0,storage_unit,analog module storage_unit,225.0
+194,glossy,widget,2013-03-11 16:37:31,3209.0,,glossy widget,3.6
+195,industrial-strength,tool,2013-05-28 08:42:47,3741.0,storage_unit,industrial-strength tool storage_unit,187.5
+196,glossy,device,2013-06-12 13:36:07,1665.0,storage_unit,glossy device storage_unit,150.0
+197,,mechanism,2013-07-02 22:35:51,881.0,wrapper,mechanism wrapper,6.0
+198,rechargable,device,2014-02-04 12:36:05,2814.0,,rechargable device,65.0
+199,reflective,tool,2013-12-28 09:36:43,2021.0,charger,reflective tool charger,6.5
+200,matte,widget,2013-04-23 21:52:00,1772.0,refill,matte widget refill,3.0000000000000004
+201,rechargable,gadget,2013-10-08 01:33:19,1281.0,storage_unit,rechargable gadget storage_unit,289.25
+202,rechargable,widget,2013-05-11 15:27:00,3772.0,how-to-manual,rechargable widget how-to-manual,0.0
+203,,gadget,2013-10-05 19:25:59,2775.0,wrapper,gadget wrapper,35.6
+204,miniature,dongle,2013-09-27 04:58:40,1207.0,storage_unit,miniature dongle storage_unit,41.25
+205,organic,instrument,2013-05-07 09:20:53,3497.0,storage_unit,organic instrument storage_unit,165.0
+206,industrial-strength,widget,2013-10-13 01:30:08,1295.0,,industrial-strength widget,9.0
+207,miniature,widget,2013-03-28 21:27:48,2341.0,,miniature widget,1.65
+208,,tool,2013-12-09 23:19:44,516.0,warmer,tool warmer,27.500000000000004
+209,glossy,instrument,2013-05-01 14:36:12,2313.0,storage_unit,glossy instrument storage_unit,132.0
+210,prize-winning,module,2014-01-29 23:01:25,3534.0,charger,prize-winning module charger,22.0
+211,glossy,widget,2014-01-23 18:12:02,1600.0,,glossy widget,3.6
+212,prize-winning,mechanism,2013-07-09 09:30:33,3445.0,carrying_case,prize-winning mechanism carrying_case,9.9
+213,industrial-strength,device,2014-02-08 08:12:42,273.0,storage_unit,industrial-strength device storage_unit,375.0
+214,extra-strength,instrument,2013-10-20 12:01:23,3927.0,charger,extra-strength instrument charger,17.6
+215,miniature,instrument,2014-02-05 07:47:39,1572.0,,miniature instrument,24.200000000000003
+216,fuzzy,module,2014-02-11 19:01:56,2520.0,charger,fuzzy module charger,20.0
+217,matte,tool,2013-03-13 04:10:30,1068.0,opener,matte tool opener,15.625
+218,,dongle,2013-09-02 20:41:57,1505.0,,dongle,30.0
+219,extra-strength,widget,2013-03-02 21:39:05,2172.0,,extra-strength widget,6.0
+220,aerodynamic,gadget,2013-08-01 11:16:52,2162.0,carrying_case,aerodynamic gadget carrying_case,74.75999999999999
+221,industrial-strength,widget,2014-02-06 11:22:40,2293.0,storage_unit,industrial-strength widget storage_unit,22.5
+222,prize-winning,mechanism,2013-09-14 10:08:54,3384.0,,prize-winning mechanism,16.5
+223,fuzzy,dongle,2013-02-22 16:36:24,233.0,opener,fuzzy dongle opener,15.0
+224,,tool,2013-12-04 03:19:50,1082.0,how-to-manual,tool how-to-manual,0.0
+225,digital,gadget,2013-06-01 07:47:43,2340.0,,digital gadget,97.9
+226,,contraption,2013-09-12 22:05:13,1533.0,storage_unit,contraption storage_unit,625.0
+227,extra-strength,gadget,2013-09-25 23:59:05,378.0,,extra-strength gadget,178.0
+228,,widget,2013-07-29 09:46:12,146.0,refill,widget refill,2.4000000000000004
+229,glossy,widget,2013-07-12 18:40:24,1437.0,how-to-manual,glossy widget how-to-manual,0.0
+230,prize-winning,apparatus,2013-10-25 22:47:55,3797.0,warmer,prize-winning apparatus warmer,363.00000000000006
+231,miniature,contraption,2014-01-07 19:47:13,1686.0,storage_unit,miniature contraption storage_unit,343.75
+232,matte,dongle,2013-12-05 01:04:18,413.0,how-to-manual,matte dongle how-to-manual,0.0
+233,aerodynamic,dongle,2013-05-31 02:09:20,3762.0,,aerodynamic dongle,42.0
+234,aerodynamic,mechanism,2013-06-27 12:51:53,3946.0,storage_unit,aerodynamic mechanism storage_unit,52.5
+235,,module,2013-06-26 22:58:31,1890.0,,module,100.0
+236,fuzzy,mechanism,2013-02-25 14:26:59,3195.0,warmer,fuzzy mechanism warmer,16.5
+237,digital,tool,2013-04-29 06:22:11,1627.0,charger,digital tool charger,5.5
+238,industrial-strength,instrument,2013-07-20 08:57:28,612.0,carrying_case,industrial-strength instrument carrying_case,79.19999999999999
+239,,tool,2013-02-25 04:54:43,39.0,,tool,25.0
+240,,mechanism,2013-11-21 04:00:45,3366.0,charger,mechanism charger,3.0
+241,prize-winning,widget,2013-07-24 01:09:40,97.0,storage_unit,prize-winning widget storage_unit,8.25
+242,extra-strength,tool,2013-07-10 09:16:00,397.0,charger,extra-strength tool charger,10.0
+243,fuzzy,mechanism,2014-02-05 17:54:34,72.0,cleaner,fuzzy mechanism cleaner,9.0
+244,rechargable,module,2013-10-15 15:17:37,2884.0,opener,rechargable module opener,65.0
+245,rechargable,module,2013-12-05 09:11:59,3520.0,,rechargable module,130.0
+246,prize-winning,gadget,2013-12-14 01:22:45,3084.0,,prize-winning gadget,97.9
+247,analog,contraption,2013-04-01 08:41:53,3146.0,charger,analog contraption charger,45.0
+248,extra-strength,dongle,2013-04-28 16:50:12,3285.0,carrying_case,extra-strength dongle carrying_case,36.0
+249,prize-winning,contraption,2013-08-16 19:00:27,3035.0,,prize-winning contraption,275.0
+250,aerodynamic,widget,2013-07-22 11:37:09,2241.0,opener,aerodynamic widget opener,2.1
+251,rechargable,instrument,2014-02-11 13:11:58,3651.0,carrying_case,rechargable instrument carrying_case,34.32
+252,fuzzy,mechanism,2013-02-27 09:17:53,3513.0,storage_unit,fuzzy mechanism storage_unit,37.5
+253,organic,contraption,2013-04-03 01:05:31,1852.0,,organic contraption,375.0
+254,industrial-strength,tool,2013-09-25 02:46:45,3625.0,charger,industrial-strength tool charger,15.0
+255,,mechanism,2014-01-17 23:01:18,237.0,warmer,mechanism warmer,16.5
+256,,contraption,2013-06-07 11:12:59,784.0,,contraption,250.0
+257,miniature,gadget,2014-01-16 03:48:56,1011.0,storage_unit,miniature gadget storage_unit,122.375
+258,digital,contraption,2013-12-14 01:00:18,1870.0,,digital contraption,275.0
+259,glossy,module,2013-03-28 18:57:13,1934.0,wrapper,glossy module wrapper,48.0
+260,,apparatus,2013-11-16 14:26:34,1603.0,,apparatus,300.0
+261,matte,module,2013-05-02 18:00:00,651.0,,matte module,125.0
+262,fuzzy,apparatus,2014-02-12 02:10:17,196.0,,fuzzy apparatus,300.0
+263,analog,apparatus,2013-09-24 15:44:21,3434.0,opener,analog apparatus opener,135.0
+264,prize-winning,dongle,2013-03-25 07:38:39,411.0,,prize-winning dongle,33.0
+265,,gadget,2013-10-14 11:15:34,541.0,charger,gadget charger,17.8
+266,,contraption,2013-08-15 07:31:35,2112.0,,contraption,250.0
+267,industrial-strength,device,2013-03-16 18:14:31,1935.0,cleaner,industrial-strength device cleaner,90.0
+268,organic,device,2013-07-27 13:51:21,1509.0,refill,organic device refill,60.0
+269,prize-winning,instrument,2013-11-13 20:55:14,2409.0,,prize-winning instrument,48.400000000000006
+270,matte,mechanism,2013-06-25 15:50:09,946.0,,matte mechanism,18.75
+271,,apparatus,2013-10-04 11:29:10,3777.0,cleaner,apparatus cleaner,180.0
+272,miniature,module,2014-01-25 03:21:55,1166.0,storage_unit,miniature module storage_unit,137.5
+273,industrial-strength,dongle,2013-10-05 14:41:05,2640.0,wrapper,industrial-strength dongle wrapper,36.0
+274,extra-strength,mechanism,2013-03-13 12:18:42,3405.0,storage_unit,extra-strength mechanism storage_unit,75.0
+275,industrial-strength,contraption,2013-11-07 02:09:34,1375.0,,industrial-strength contraption,750.0
+276,rechargable,mechanism,2013-09-22 01:09:12,1944.0,cleaner,rechargable mechanism cleaner,11.7
+277,rechargable,mechanism,2013-07-02 13:50:41,3423.0,,rechargable mechanism,19.5
+278,rechargable,gadget,2013-05-25 18:46:53,3348.0,storage_unit,rechargable gadget storage_unit,289.25
+279,analog,module,2013-12-14 01:36:01,2200.0,,analog module,90.0
+280,glossy,widget,2013-11-12 01:32:00,1582.0,opener,glossy widget opener,1.7999999999999998
+281,analog,tool,2013-09-21 04:26:41,3381.0,wrapper,analog tool wrapper,9.0
+282,glossy,mechanism,2013-08-07 22:15:44,3724.0,how-to-manual,glossy mechanism how-to-manual,0.0
+283,industrial-strength,mechanism,2013-08-14 14:04:04,1283.0,charger,industrial-strength mechanism charger,9.0
+284,analog,contraption,2014-02-08 05:52:22,869.0,cleaner,analog contraption cleaner,135.0
+285,industrial-strength,tool,2013-12-07 22:22:05,207.0,,industrial-strength tool,75.0
+286,digital,apparatus,2013-08-14 08:39:16,1863.0,warmer,digital apparatus warmer,363.00000000000006
+287,rechargable,dongle,2013-12-20 07:15:04,3148.0,storage_unit,rechargable dongle storage_unit,97.5
+288,extra-strength,widget,2013-02-25 01:58:30,1229.0,warmer,extra-strength widget warmer,6.6000000000000005
+289,aerodynamic,contraption,2013-05-28 19:18:24,1928.0,wrapper,aerodynamic contraption wrapper,140.0
+290,digital,gadget,2013-03-27 13:54:49,3466.0,how-to-manual,digital gadget how-to-manual,0.0
+291,analog,module,2013-12-24 02:14:53,3657.0,refill,analog module refill,72.0
+292,miniature,device,2014-02-20 21:07:49,2359.0,,miniature device,27.500000000000004
+293,organic,dongle,2013-07-13 09:50:11,137.0,refill,organic dongle refill,36.0
+294,extra-strength,mechanism,2013-07-04 14:22:28,2795.0,how-to-manual,extra-strength mechanism how-to-manual,0.0
+295,glossy,instrument,2013-03-11 14:55:34,1303.0,,glossy instrument,52.8
+296,matte,tool,2013-05-16 19:08:15,3807.0,carrying_case,matte tool carrying_case,18.75
+297,rechargable,gadget,2013-06-02 14:24:28,1089.0,warmer,rechargable gadget warmer,127.27
+298,digital,gadget,2013-04-02 06:51:18,3650.0,,digital gadget,97.9
+299,aerodynamic,widget,2013-11-28 08:50:23,2831.0,storage_unit,aerodynamic widget storage_unit,10.5
+300,,tool,2013-08-27 01:46:00,1515.0,opener,tool opener,12.5
+301,miniature,dongle,2013-10-18 12:47:56,2589.0,cleaner,miniature dongle cleaner,9.9
+302,reflective,gadget,2013-07-23 04:00:21,3477.0,,reflective gadget,115.7
+303,reflective,mechanism,2014-02-11 07:29:49,2504.0,charger,reflective mechanism charger,3.9
+304,extra-strength,module,2013-12-19 01:12:33,2874.0,,extra-strength module,200.0
+305,fuzzy,contraption,2013-08-29 12:58:36,1332.0,cleaner,fuzzy contraption cleaner,150.0
+306,,module,2014-01-05 00:53:30,930.0,,module,100.0
+307,aerodynamic,gadget,2013-06-03 05:42:03,935.0,,aerodynamic gadget,124.6
+308,digital,dongle,2013-03-27 19:34:55,3574.0,storage_unit,digital dongle storage_unit,82.5
+309,aerodynamic,widget,2013-08-05 06:29:16,347.0,,aerodynamic widget,4.199999999999999
+310,aerodynamic,dongle,2013-11-10 13:45:09,269.0,,aerodynamic dongle,42.0
+311,aerodynamic,apparatus,2013-11-28 00:53:16,1879.0,cleaner,aerodynamic apparatus cleaner,252.0
+312,aerodynamic,widget,2013-11-01 02:32:22,3838.0,,aerodynamic widget,4.199999999999999
+313,prize-winning,module,2013-03-08 14:50:12,2625.0,opener,prize-winning module opener,55.00000000000001
+314,prize-winning,gadget,2013-07-01 12:23:12,2635.0,opener,prize-winning gadget opener,48.95
+315,industrial-strength,gadget,2013-09-21 03:37:15,2176.0,,industrial-strength gadget,267.0
+316,digital,dongle,2013-09-30 16:46:40,1215.0,,digital dongle,33.0
+317,,gadget,2014-02-02 21:54:31,867.0,opener,gadget opener,44.5
+318,digital,mechanism,2013-11-08 09:21:15,2710.0,opener,digital mechanism opener,8.25
+319,miniature,dongle,2013-10-02 05:58:35,1294.0,,miniature dongle,16.5
+320,rechargable,contraption,2014-01-12 04:08:43,2170.0,how-to-manual,rechargable contraption how-to-manual,0.0
+321,analog,widget,2013-04-10 19:03:53,1490.0,carrying_case,analog widget carrying_case,1.62
+322,fuzzy,mechanism,2013-07-16 07:24:05,2448.0,opener,fuzzy mechanism opener,7.5
+323,analog,apparatus,2013-11-09 18:40:26,3352.0,refill,analog apparatus refill,216.0
+324,digital,gadget,2013-02-25 08:41:00,3846.0,opener,digital gadget opener,48.95
+325,analog,contraption,2013-05-03 01:36:55,2954.0,warmer,analog contraption warmer,247.5
+326,matte,tool,2013-06-22 21:04:11,2462.0,warmer,matte tool warmer,34.37500000000001
+327,reflective,contraption,2013-05-28 11:07:20,2515.0,cleaner,reflective contraption cleaner,195.0
+328,,device,2013-03-04 16:29:34,2379.0,wrapper,device wrapper,20.0
+329,aerodynamic,device,2014-02-10 18:20:01,2483.0,warmer,aerodynamic device warmer,77.0
+330,fuzzy,apparatus,2014-02-17 10:07:41,2764.0,warmer,fuzzy apparatus warmer,330.0
+331,miniature,module,2013-07-03 22:01:37,301.0,,miniature module,55.00000000000001
+332,fuzzy,instrument,2013-11-17 00:39:14,2881.0,,fuzzy instrument,44.0
+333,organic,widget,2013-04-30 00:12:36,3563.0,refill,organic widget refill,3.6000000000000005
+334,fuzzy,dongle,2013-07-01 02:46:09,2673.0,,fuzzy dongle,30.0
+335,,apparatus,2013-05-31 08:55:27,2950.0,charger,apparatus charger,60.0
+336,extra-strength,tool,2013-10-26 04:06:54,2995.0,how-to-manual,extra-strength tool how-to-manual,0.0
+337,,mechanism,2013-04-09 20:35:10,1353.0,,mechanism,15.0
+338,matte,device,2013-03-26 01:52:28,2122.0,opener,matte device opener,31.25
+339,industrial-strength,contraption,2013-07-24 07:34:06,3937.0,wrapper,industrial-strength contraption wrapper,300.0
+340,glossy,gadget,2013-06-27 05:08:19,768.0,,glossy gadget,106.8
+341,reflective,gadget,2013-11-25 02:10:24,1338.0,refill,reflective gadget refill,92.56
+342,analog,module,2013-07-20 03:42:48,3365.0,warmer,analog module warmer,99.0
+343,extra-strength,gadget,2014-02-13 14:47:01,824.0,,extra-strength gadget,178.0
+344,,apparatus,2013-10-05 17:54:43,2227.0,refill,apparatus refill,240.0
+345,extra-strength,instrument,2013-11-01 18:49:38,316.0,,extra-strength instrument,88.0
+346,organic,gadget,2013-11-10 21:44:45,179.0,charger,organic gadget charger,26.700000000000003
+347,reflective,widget,2013-10-26 16:20:15,1420.0,charger,reflective widget charger,0.7800000000000001
+348,miniature,contraption,2014-01-25 10:23:27,1513.0,opener,miniature contraption opener,68.75
+349,aerodynamic,tool,2013-09-28 00:17:07,2199.0,carrying_case,aerodynamic tool carrying_case,21.0
+350,reflective,instrument,2013-09-08 09:19:24,2507.0,warmer,reflective instrument warmer,62.92000000000001
+351,organic,widget,2013-10-21 21:21:58,893.0,,organic widget,4.5
+352,reflective,apparatus,2013-07-30 05:15:05,1843.0,,reflective apparatus,390.0
+353,fuzzy,mechanism,2013-08-10 12:13:02,700.0,,fuzzy mechanism,15.0
+354,fuzzy,apparatus,2013-10-23 16:33:55,2696.0,wrapper,fuzzy apparatus wrapper,120.0
+355,glossy,device,2013-07-31 14:40:51,18.0,refill,glossy device refill,48.0
+356,glossy,dongle,2013-08-08 06:30:39,3785.0,,glossy dongle,36.0
+357,extra-strength,tool,2013-03-11 08:26:41,2275.0,charger,extra-strength tool charger,10.0
+358,,module,2014-01-05 06:22:50,1184.0,carrying_case,module carrying_case,60.0
+359,organic,device,2013-11-07 03:01:42,2042.0,,organic device,75.0
+360,analog,contraption,2013-04-05 16:02:51,3197.0,,analog contraption,225.0
+361,prize-winning,tool,2013-08-23 17:27:36,2044.0,,prize-winning tool,27.500000000000004
+362,fuzzy,gadget,2013-08-12 22:03:15,416.0,how-to-manual,fuzzy gadget how-to-manual,0.0
+363,,mechanism,2013-12-15 17:47:09,1319.0,charger,mechanism charger,3.0
+364,reflective,instrument,2013-09-02 07:23:21,3898.0,,reflective instrument,57.2
+365,matte,mechanism,2013-04-26 10:38:46,1170.0,storage_unit,matte mechanism storage_unit,46.875
+366,organic,module,2013-12-26 04:37:38,1562.0,,organic module,150.0
+367,aerodynamic,device,2014-01-11 16:53:08,390.0,,aerodynamic device,70.0
+368,glossy,mechanism,2014-01-02 06:00:38,171.0,wrapper,glossy mechanism wrapper,7.199999999999999
+369,glossy,module,2013-11-25 14:49:12,1850.0,,glossy module,120.0
+370,fuzzy,contraption,2014-01-07 19:13:11,3476.0,opener,fuzzy contraption opener,125.0
+371,rechargable,instrument,2013-11-28 12:04:43,1247.0,charger,rechargable instrument charger,11.44
+372,miniature,tool,2013-09-30 19:51:45,1475.0,opener,miniature tool opener,6.875000000000001
+373,miniature,widget,2013-08-15 03:31:13,190.0,,miniature widget,1.65
+374,,apparatus,2013-11-01 22:29:57,3558.0,,apparatus,300.0
+375,glossy,gadget,2013-08-27 04:49:01,1246.0,,glossy gadget,106.8
+376,miniature,dongle,2013-10-08 16:06:45,2106.0,opener,miniature dongle opener,8.25
+377,rechargable,module,2014-01-28 10:02:23,3039.0,,rechargable module,130.0
+378,digital,instrument,2013-07-31 07:01:16,1913.0,,digital instrument,48.400000000000006
+379,reflective,module,2013-04-02 21:29:45,2253.0,cleaner,reflective module cleaner,78.0
+380,miniature,dongle,2013-05-14 11:49:09,1220.0,,miniature dongle,16.5
+381,miniature,contraption,2013-08-05 02:54:44,2694.0,,miniature contraption,137.5
+382,,widget,2013-04-23 19:38:07,2073.0,how-to-manual,widget how-to-manual,0.0
+383,fuzzy,contraption,2013-07-10 00:05:16,418.0,,fuzzy contraption,250.0
+384,glossy,module,2013-07-20 01:17:44,3794.0,,glossy module,120.0
+385,miniature,module,2013-05-20 08:15:42,415.0,,miniature module,55.00000000000001
+386,reflective,dongle,2013-03-27 16:43:13,2631.0,refill,reflective dongle refill,31.200000000000003
+387,industrial-strength,instrument,2013-05-31 07:35:10,2668.0,how-to-manual,industrial-strength instrument how-to-manual,0.0
+388,organic,module,2013-12-08 05:35:45,595.0,,organic module,150.0
+389,aerodynamic,module,2013-05-07 00:06:24,3925.0,cleaner,aerodynamic module cleaner,84.0
+390,industrial-strength,contraption,2013-04-12 05:18:37,649.0,,industrial-strength contraption,750.0
+391,rechargable,dongle,2013-06-25 16:17:50,3798.0,carrying_case,rechargable dongle carrying_case,23.4
+392,reflective,instrument,2013-10-07 17:30:50,2762.0,cleaner,reflective instrument cleaner,34.32
+393,prize-winning,gadget,2013-04-04 18:39:35,2846.0,carrying_case,prize-winning gadget carrying_case,58.74
+394,analog,tool,2013-10-18 13:32:31,2009.0,,analog tool,22.5
+395,miniature,gadget,2013-04-10 01:20:24,1436.0,cleaner,miniature gadget cleaner,29.37
+396,analog,device,2013-06-23 11:32:22,3005.0,,analog device,45.0
+397,aerodynamic,instrument,2013-02-27 23:01:15,2746.0,storage_unit,aerodynamic instrument storage_unit,154.0
+398,,tool,2013-05-09 02:03:30,3340.0,cleaner,tool cleaner,15.0
+399,industrial-strength,apparatus,2013-08-12 22:50:37,1965.0,charger,industrial-strength apparatus charger,180.0
+400,aerodynamic,dongle,2013-06-02 08:21:50,3082.0,cleaner,aerodynamic dongle cleaner,25.2
+401,organic,tool,2013-04-07 19:03:53,1110.0,charger,organic tool charger,7.5
+402,miniature,device,2013-06-15 03:17:28,3474.0,wrapper,miniature device wrapper,11.0
+403,analog,instrument,2013-09-26 16:01:47,3301.0,charger,analog instrument charger,7.920000000000001
+404,digital,dongle,2014-02-05 03:26:04,2891.0,,digital dongle,33.0
+405,,device,2013-10-09 07:05:29,963.0,,device,50.0
+406,fuzzy,contraption,2013-11-09 10:38:17,3955.0,opener,fuzzy contraption opener,125.0
+407,industrial-strength,module,2014-02-12 10:27:07,3627.0,refill,industrial-strength module refill,240.0
+408,rechargable,widget,2013-05-04 05:31:56,238.0,,rechargable widget,3.9
+409,reflective,apparatus,2014-01-08 08:34:48,2210.0,,reflective apparatus,390.0
+410,extra-strength,module,2014-01-11 21:59:15,3554.0,carrying_case,extra-strength module carrying_case,120.0
+411,fuzzy,instrument,2014-02-18 12:15:35,3250.0,how-to-manual,fuzzy instrument how-to-manual,0.0
+412,fuzzy,tool,2013-04-22 09:32:56,3703.0,wrapper,fuzzy tool wrapper,10.0
+413,organic,instrument,2013-03-15 06:51:48,3086.0,,organic instrument,66.0
+414,reflective,dongle,2013-10-24 03:50:47,3496.0,,reflective dongle,39.0
+415,fuzzy,apparatus,2013-12-24 13:38:57,855.0,carrying_case,fuzzy apparatus carrying_case,180.0
+416,fuzzy,device,2013-02-26 03:22:16,3053.0,,fuzzy device,50.0
+417,digital,device,2014-02-24 00:33:06,3002.0,refill,digital device refill,44.0
+418,miniature,dongle,2014-02-20 23:06:05,1084.0,carrying_case,miniature dongle carrying_case,9.9
+419,,apparatus,2013-05-14 10:23:12,3090.0,,apparatus,300.0
+420,matte,dongle,2013-07-28 16:00:38,3326.0,wrapper,matte dongle wrapper,15.0
+421,rechargable,device,2013-08-14 21:00:54,1241.0,how-to-manual,rechargable device how-to-manual,0.0
+422,industrial-strength,dongle,2013-05-02 23:23:52,3102.0,,industrial-strength dongle,90.0
+423,,gadget,2013-11-08 02:53:13,2342.0,opener,gadget opener,44.5
+424,digital,mechanism,2013-10-30 14:47:43,332.0,,digital mechanism,16.5
+425,reflective,widget,2013-07-18 19:46:32,3788.0,,reflective widget,3.9
+426,,gadget,2014-01-21 12:15:10,1192.0,refill,gadget refill,71.2
+427,extra-strength,tool,2013-06-09 11:55:43,3486.0,opener,extra-strength tool opener,25.0
+428,reflective,contraption,2013-05-26 04:40:19,422.0,how-to-manual,reflective contraption how-to-manual,0.0
+429,matte,apparatus,2013-11-07 20:02:25,1794.0,opener,matte apparatus opener,187.5
+430,aerodynamic,instrument,2013-10-19 19:35:14,1086.0,warmer,aerodynamic instrument warmer,67.76
+431,glossy,module,2014-02-08 05:49:12,3240.0,how-to-manual,glossy module how-to-manual,0.0
+432,analog,instrument,2013-04-22 22:02:43,729.0,,analog instrument,39.6
+433,rechargable,mechanism,2013-12-13 09:27:00,2348.0,,rechargable mechanism,19.5
+434,prize-winning,widget,2013-06-11 17:14:28,2655.0,carrying_case,prize-winning widget carrying_case,1.98
+435,fuzzy,tool,2013-08-22 19:24:43,3862.0,,fuzzy tool,25.0
+436,miniature,tool,2013-04-12 02:55:52,2410.0,warmer,miniature tool warmer,15.125000000000004
+437,glossy,gadget,2014-01-24 21:21:04,1521.0,wrapper,glossy gadget wrapper,42.72
+438,,module,2013-07-18 12:56:42,2370.0,cleaner,module cleaner,60.0
+439,prize-winning,module,2013-09-15 04:53:57,819.0,,prize-winning module,110.0
+440,miniature,tool,2013-06-27 03:50:35,113.0,refill,miniature tool refill,11.0
+441,,instrument,2013-11-04 21:36:18,2805.0,,instrument,44.0
+442,miniature,device,2014-01-31 19:49:54,2196.0,refill,miniature device refill,22.0
+443,organic,dongle,2013-02-25 17:11:34,42.0,,organic dongle,45.0
+444,prize-winning,module,2013-04-17 23:35:54,1434.0,refill,prize-winning module refill,88.0
+445,aerodynamic,dongle,2013-10-26 07:56:05,2508.0,,aerodynamic dongle,42.0
+446,reflective,tool,2013-11-25 02:55:42,2443.0,charger,reflective tool charger,6.5
+447,aerodynamic,widget,2013-06-17 06:13:04,3623.0,,aerodynamic widget,4.199999999999999
+448,glossy,device,2013-06-05 06:22:49,2519.0,cleaner,glossy device cleaner,36.0
+449,matte,device,2013-07-12 13:08:12,104.0,carrying_case,matte device carrying_case,37.5
+450,prize-winning,apparatus,2013-04-07 19:19:23,1804.0,cleaner,prize-winning apparatus cleaner,198.00000000000003
+451,reflective,apparatus,2013-09-20 23:00:43,3370.0,charger,reflective apparatus charger,78.0
+452,industrial-strength,module,2013-05-15 02:05:11,3814.0,refill,industrial-strength module refill,240.0
+453,matte,mechanism,2013-03-07 00:22:07,3483.0,cleaner,matte mechanism cleaner,11.25
+454,digital,gadget,2013-11-06 23:46:47,2681.0,charger,digital gadget charger,19.58
+455,miniature,contraption,2013-02-22 17:01:30,3923.0,warmer,miniature contraption warmer,151.25
+456,,apparatus,2013-06-26 23:50:13,2425.0,,apparatus,300.0
+457,,gadget,2013-07-06 20:49:32,990.0,,gadget,89.0
+458,organic,dongle,2014-01-10 19:32:16,3538.0,,organic dongle,45.0
+459,matte,instrument,2014-01-11 19:12:41,3362.0,,matte instrument,55.0
+460,extra-strength,apparatus,2014-01-10 18:32:57,615.0,,extra-strength apparatus,600.0
+461,analog,module,2014-02-06 08:00:28,3181.0,wrapper,analog module wrapper,36.0
+462,glossy,module,2013-07-31 16:13:21,1552.0,,glossy module,120.0
+463,,device,2013-10-25 14:31:23,619.0,carrying_case,device carrying_case,30.0
+464,reflective,contraption,2013-09-29 15:34:32,1973.0,wrapper,reflective contraption wrapper,130.0
+465,prize-winning,widget,2013-04-10 05:32:28,3517.0,wrapper,prize-winning widget wrapper,1.3200000000000005
+466,extra-strength,widget,2013-07-22 20:28:16,1586.0,opener,extra-strength widget opener,3.0
+467,aerodynamic,device,2013-03-03 06:11:50,3332.0,carrying_case,aerodynamic device carrying_case,42.0
+468,industrial-strength,mechanism,2014-01-08 05:41:07,1057.0,carrying_case,industrial-strength mechanism carrying_case,27.0
+469,rechargable,tool,2013-09-16 20:24:33,1550.0,,rechargable tool,32.5
+470,,contraption,2013-03-03 06:06:12,3120.0,carrying_case,contraption carrying_case,150.0
+471,fuzzy,contraption,2013-03-30 13:12:51,2705.0,storage_unit,fuzzy contraption storage_unit,625.0
+472,analog,device,2013-04-15 23:36:29,707.0,carrying_case,analog device carrying_case,27.0
+473,aerodynamic,widget,2013-10-10 08:07:29,1556.0,,aerodynamic widget,4.199999999999999
+474,analog,device,2013-07-17 02:11:31,296.0,refill,analog device refill,36.0
+475,reflective,module,2013-06-12 02:33:47,2530.0,warmer,reflective module warmer,143.00000000000003
+476,,module,2013-11-01 11:50:42,2054.0,,module,100.0
+477,matte,instrument,2014-01-08 05:31:08,2659.0,storage_unit,matte instrument storage_unit,137.5
+478,analog,instrument,2013-06-19 12:09:43,127.0,wrapper,analog instrument wrapper,15.840000000000002
+479,organic,instrument,2013-05-20 12:59:56,579.0,refill,organic instrument refill,52.8
+480,reflective,module,2013-12-13 15:03:48,767.0,cleaner,reflective module cleaner,78.0
+481,rechargable,gadget,2014-02-17 13:39:26,826.0,,rechargable gadget,115.7
+482,matte,gadget,2013-08-15 05:19:10,1473.0,opener,matte gadget opener,55.625
+483,miniature,device,2013-09-05 19:22:50,480.0,opener,miniature device opener,13.750000000000002
+484,aerodynamic,tool,2013-12-25 17:48:51,764.0,charger,aerodynamic tool charger,7.0
+485,industrial-strength,instrument,2013-12-14 13:28:09,1747.0,how-to-manual,industrial-strength instrument how-to-manual,0.0
+486,glossy,mechanism,2013-07-09 05:24:03,1655.0,,glossy mechanism,18.0
+487,industrial-strength,device,2013-11-17 06:02:55,2906.0,wrapper,industrial-strength device wrapper,60.0
+488,prize-winning,module,2013-05-26 10:59:29,1685.0,carrying_case,prize-winning module carrying_case,66.0
+489,analog,instrument,2013-05-19 06:19:29,2916.0,carrying_case,analog instrument carrying_case,23.76
+490,industrial-strength,tool,2013-12-21 15:26:22,2102.0,,industrial-strength tool,75.0
+491,digital,contraption,2013-10-23 22:31:55,2363.0,wrapper,digital contraption wrapper,110.0
+492,aerodynamic,contraption,2013-07-02 02:43:21,2758.0,warmer,aerodynamic contraption warmer,385.0
+493,prize-winning,dongle,2013-03-14 07:05:46,2932.0,,prize-winning dongle,33.0
+494,digital,widget,2013-03-16 07:51:24,2316.0,,digital widget,3.3000000000000003
+495,digital,module,2013-08-15 19:55:19,409.0,warmer,digital module warmer,121.00000000000004
+496,glossy,gadget,2013-07-20 19:38:56,217.0,carrying_case,glossy gadget carrying_case,64.08
+497,matte,dongle,2013-11-14 02:22:03,2738.0,cleaner,matte dongle cleaner,22.5
+498,fuzzy,apparatus,2013-07-31 00:38:39,1625.0,,fuzzy apparatus,300.0
+499,miniature,gadget,2013-04-30 03:21:15,470.0,cleaner,miniature gadget cleaner,29.37
+500,rechargable,mechanism,2013-10-20 20:06:55,2489.0,opener,rechargable mechanism opener,9.75
+501,rechargable,gadget,2013-11-07 18:53:57,587.0,storage_unit,rechargable gadget storage_unit,289.25
+502,digital,tool,2013-04-02 15:09:14,3809.0,,digital tool,27.500000000000004
+503,rechargable,module,2013-06-01 18:18:16,290.0,,rechargable module,130.0
+504,glossy,device,2013-09-12 22:52:50,1802.0,,glossy device,60.0
+505,fuzzy,instrument,2013-03-02 16:34:38,3682.0,,fuzzy instrument,44.0
+506,reflective,widget,2013-10-22 21:47:43,2977.0,cleaner,reflective widget cleaner,2.34
+507,analog,gadget,2013-03-22 21:07:24,2685.0,storage_unit,analog gadget storage_unit,200.25
+508,extra-strength,gadget,2013-07-21 04:14:33,1163.0,how-to-manual,extra-strength gadget how-to-manual,0.0
+509,aerodynamic,tool,2013-04-26 02:14:58,3325.0,,aerodynamic tool,35.0
+510,,module,2013-07-17 01:44:36,753.0,storage_unit,module storage_unit,250.0
+511,prize-winning,dongle,2014-01-21 14:05:21,680.0,,prize-winning dongle,33.0
+512,rechargable,gadget,2014-01-01 17:29:57,2843.0,carrying_case,rechargable gadget carrying_case,69.42
+513,matte,dongle,2013-05-11 14:01:26,2901.0,,matte dongle,37.5
+514,rechargable,dongle,2013-06-14 23:33:32,2559.0,,rechargable dongle,39.0
+515,aerodynamic,instrument,2014-01-16 11:15:37,3645.0,wrapper,aerodynamic instrument wrapper,24.64
+516,matte,contraption,2014-01-16 01:43:31,2169.0,,matte contraption,312.5
+517,miniature,module,2013-06-18 17:57:21,765.0,,miniature module,55.00000000000001
+518,extra-strength,contraption,2013-06-16 10:57:01,1083.0,,extra-strength contraption,500.0
+519,glossy,dongle,2013-05-06 10:38:22,870.0,,glossy dongle,36.0
+520,,tool,2013-10-01 00:44:14,725.0,wrapper,tool wrapper,10.0
+521,miniature,widget,2013-07-30 11:35:27,804.0,refill,miniature widget refill,1.3200000000000005
+522,glossy,gadget,2014-02-01 11:46:46,3698.0,storage_unit,glossy gadget storage_unit,267.0
+523,analog,apparatus,2013-05-29 07:03:15,2301.0,storage_unit,analog apparatus storage_unit,675.0
+524,,contraption,2013-10-20 06:49:15,485.0,,contraption,250.0
+525,,device,2013-08-18 10:49:19,2150.0,storage_unit,device storage_unit,125.0
+526,miniature,contraption,2014-01-03 15:07:40,2980.0,cleaner,miniature contraption cleaner,82.5
+527,digital,mechanism,2013-04-06 06:23:53,2372.0,carrying_case,digital mechanism carrying_case,9.9
+528,,module,2013-05-06 18:53:34,1227.0,warmer,module warmer,110.0
+529,analog,tool,2013-04-30 13:00:35,3706.0,,analog tool,22.5
+530,,widget,2013-11-24 12:14:06,519.0,wrapper,widget wrapper,1.2000000000000002
+531,extra-strength,tool,2014-01-29 14:22:27,3991.0,,extra-strength tool,50.0
+532,analog,widget,2013-09-29 19:37:09,2470.0,storage_unit,analog widget storage_unit,6.75
+533,digital,contraption,2013-11-17 19:47:06,2233.0,,digital contraption,275.0
+534,extra-strength,apparatus,2013-06-10 19:56:00,3475.0,opener,extra-strength apparatus opener,300.0
+535,organic,widget,2013-11-20 09:43:00,467.0,,organic widget,4.5
+536,fuzzy,tool,2013-05-15 11:20:40,1524.0,,fuzzy tool,25.0
+537,industrial-strength,contraption,2013-04-18 06:06:47,2756.0,how-to-manual,industrial-strength contraption how-to-manual,0.0
+538,aerodynamic,widget,2013-03-21 16:22:41,762.0,storage_unit,aerodynamic widget storage_unit,10.5
+539,glossy,tool,2013-11-18 21:00:16,3787.0,,glossy tool,30.0
+540,organic,widget,2014-01-08 23:27:37,1453.0,charger,organic widget charger,0.9000000000000001
+541,organic,apparatus,2013-10-26 03:37:28,3518.0,,organic apparatus,450.0
+542,glossy,mechanism,2014-01-27 17:27:40,3461.0,warmer,glossy mechanism warmer,19.8
+543,analog,device,2013-08-02 07:09:43,2063.0,,analog device,45.0
+544,glossy,instrument,2013-08-25 15:39:17,2174.0,,glossy instrument,52.8
+545,digital,tool,2014-01-31 02:40:10,1854.0,,digital tool,27.500000000000004
+546,industrial-strength,device,2013-04-24 06:30:04,505.0,opener,industrial-strength device opener,75.0
+547,analog,tool,2013-07-17 17:33:36,1363.0,how-to-manual,analog tool how-to-manual,0.0
+548,,dongle,2013-07-12 11:16:55,1534.0,,dongle,30.0
+549,,contraption,2013-09-08 03:42:18,251.0,charger,contraption charger,50.0
+550,aerodynamic,module,2014-01-28 19:02:53,263.0,,aerodynamic module,140.0
+551,extra-strength,gadget,2013-09-27 05:27:27,2413.0,carrying_case,extra-strength gadget carrying_case,106.8
+552,fuzzy,module,2014-02-24 23:17:42,1657.0,,fuzzy module,100.0
+553,reflective,widget,2013-06-22 05:33:56,805.0,warmer,reflective widget warmer,4.290000000000001
+554,matte,mechanism,2013-05-02 16:02:08,1146.0,how-to-manual,matte mechanism how-to-manual,0.0
+555,rechargable,instrument,2013-12-10 06:27:34,971.0,charger,rechargable instrument charger,11.44
+556,prize-winning,dongle,2014-01-12 02:01:42,215.0,how-to-manual,prize-winning dongle how-to-manual,0.0
+557,,module,2013-11-03 17:29:25,3938.0,opener,module opener,50.0
+558,aerodynamic,device,2013-07-01 23:18:36,2406.0,storage_unit,aerodynamic device storage_unit,175.0
+559,matte,module,2013-02-24 23:55:07,259.0,opener,matte module opener,62.5
+560,digital,apparatus,2013-08-27 16:34:17,2936.0,,digital apparatus,330.0
+561,analog,device,2013-04-19 09:12:07,3371.0,,analog device,45.0
+562,analog,widget,2013-03-22 10:28:08,2373.0,cleaner,analog widget cleaner,1.62
+563,rechargable,device,2013-10-16 04:30:58,1355.0,cleaner,rechargable device cleaner,39.0
+564,industrial-strength,tool,2013-11-19 14:11:08,1187.0,carrying_case,industrial-strength tool carrying_case,45.0
+565,,device,2013-05-21 05:17:24,2847.0,storage_unit,device storage_unit,125.0
+566,rechargable,tool,2013-06-16 18:12:47,188.0,,rechargable tool,32.5
+567,matte,instrument,2013-07-26 20:44:38,3129.0,charger,matte instrument charger,11.0
+568,extra-strength,instrument,2013-10-18 15:44:42,2321.0,opener,extra-strength instrument opener,44.0
+569,analog,dongle,2013-12-28 01:35:24,1699.0,,analog dongle,27.0
+570,glossy,device,2013-08-09 15:57:03,828.0,warmer,glossy device warmer,66.0
+571,reflective,device,2014-01-08 19:25:11,3023.0,wrapper,reflective device wrapper,26.0
+572,miniature,instrument,2013-04-28 03:08:32,3271.0,refill,miniature instrument refill,19.360000000000003
+573,rechargable,module,2013-06-03 06:15:35,1974.0,,rechargable module,130.0
+574,fuzzy,gadget,2013-06-28 08:46:58,1798.0,,fuzzy gadget,89.0
+575,miniature,device,2013-06-24 21:47:17,462.0,charger,miniature device charger,5.5
+576,matte,gadget,2013-06-21 05:54:49,3685.0,how-to-manual,matte gadget how-to-manual,0.0
+577,glossy,contraption,2013-05-28 06:33:14,3379.0,,glossy contraption,300.0
+578,rechargable,widget,2013-12-13 09:19:36,1677.0,,rechargable widget,3.9
+579,fuzzy,mechanism,2014-02-21 00:56:21,1788.0,charger,fuzzy mechanism charger,3.0
+580,,apparatus,2013-03-10 11:18:05,1771.0,carrying_case,apparatus carrying_case,180.0
+581,extra-strength,module,2013-06-08 15:23:32,911.0,how-to-manual,extra-strength module how-to-manual,0.0
+582,extra-strength,gadget,2014-01-15 11:37:37,2022.0,how-to-manual,extra-strength gadget how-to-manual,0.0
+583,matte,widget,2013-11-30 03:21:23,2989.0,,matte widget,3.75
+584,reflective,tool,2013-09-27 10:19:40,2412.0,opener,reflective tool opener,16.25
+585,digital,mechanism,2013-11-27 15:01:21,1511.0,warmer,digital mechanism warmer,18.15
+586,analog,instrument,2014-02-08 20:07:47,2532.0,,analog instrument,39.6
+587,extra-strength,gadget,2013-12-23 22:15:39,1637.0,,extra-strength gadget,178.0
+588,miniature,tool,2013-12-29 04:40:44,1735.0,,miniature tool,13.750000000000002
+589,extra-strength,module,2014-01-17 05:12:42,2192.0,,extra-strength module,200.0
+590,aerodynamic,device,2013-05-12 15:19:01,1888.0,,aerodynamic device,70.0
+591,extra-strength,widget,2013-11-18 18:15:02,2497.0,warmer,extra-strength widget warmer,6.6000000000000005
+592,digital,apparatus,2013-03-15 17:36:06,1164.0,opener,digital apparatus opener,165.0
+593,rechargable,module,2014-02-17 07:45:13,551.0,,rechargable module,130.0
+594,fuzzy,dongle,2013-12-29 12:03:57,1037.0,carrying_case,fuzzy dongle carrying_case,18.0
+595,analog,apparatus,2014-02-11 12:48:17,2845.0,,analog apparatus,270.0
+596,matte,tool,2014-01-15 08:29:57,937.0,wrapper,matte tool wrapper,12.5
+597,reflective,gadget,2013-03-20 02:27:28,540.0,wrapper,reflective gadget wrapper,46.28
+598,matte,gadget,2014-02-10 17:52:10,1628.0,opener,matte gadget opener,55.625
+599,prize-winning,contraption,2013-11-04 07:01:00,3506.0,cleaner,prize-winning contraption cleaner,165.0
+600,extra-strength,widget,2013-10-22 05:14:29,13.0,opener,extra-strength widget opener,3.0
+601,industrial-strength,widget,2014-01-07 00:15:53,2261.0,,industrial-strength widget,9.0
+602,digital,apparatus,2013-07-05 14:25:31,1883.0,how-to-manual,digital apparatus how-to-manual,0.0
+603,aerodynamic,tool,2013-11-21 23:40:52,388.0,cleaner,aerodynamic tool cleaner,21.0
+604,organic,widget,2013-05-30 15:44:59,250.0,how-to-manual,organic widget how-to-manual,0.0
+605,fuzzy,contraption,2013-12-25 16:16:01,1663.0,carrying_case,fuzzy contraption carrying_case,150.0
+606,aerodynamic,contraption,2013-07-27 08:36:55,662.0,storage_unit,aerodynamic contraption storage_unit,875.0
+607,fuzzy,gadget,2013-08-06 20:31:58,354.0,wrapper,fuzzy gadget wrapper,35.6
+608,fuzzy,module,2013-09-22 15:42:02,3308.0,warmer,fuzzy module warmer,110.0
+609,matte,module,2013-07-05 22:42:35,2526.0,refill,matte module refill,100.0
+610,glossy,instrument,2013-09-24 03:27:04,3159.0,,glossy instrument,52.8
+611,miniature,mechanism,2013-05-12 08:41:16,1251.0,wrapper,miniature mechanism wrapper,3.3000000000000003
+612,fuzzy,widget,2013-07-28 04:59:45,2513.0,refill,fuzzy widget refill,2.4000000000000004
+613,analog,mechanism,2014-02-15 06:22:04,1692.0,opener,analog mechanism opener,6.75
+614,glossy,mechanism,2013-08-08 16:37:34,1480.0,refill,glossy mechanism refill,14.4
+615,matte,contraption,2013-05-08 03:15:12,3124.0,opener,matte contraption opener,156.25
+616,reflective,apparatus,2013-08-21 14:52:35,2855.0,cleaner,reflective apparatus cleaner,234.0
+617,digital,module,2013-07-14 02:36:37,2923.0,wrapper,digital module wrapper,44.0
+618,matte,tool,2013-03-29 20:53:01,1594.0,how-to-manual,matte tool how-to-manual,0.0
+619,organic,tool,2013-08-08 13:10:27,438.0,opener,organic tool opener,18.75
+620,rechargable,device,2013-06-17 10:00:56,3287.0,,rechargable device,65.0
+621,rechargable,apparatus,2013-12-31 04:36:56,1987.0,,rechargable apparatus,390.0
+622,,instrument,2014-02-24 11:23:42,2229.0,how-to-manual,instrument how-to-manual,0.0
+623,rechargable,widget,2013-06-30 19:09:15,3469.0,warmer,rechargable widget warmer,4.290000000000001
+624,,mechanism,2013-06-13 00:26:17,3865.0,,mechanism,15.0
+625,,apparatus,2013-04-24 05:56:11,3996.0,warmer,apparatus warmer,330.0
+626,matte,contraption,2013-06-10 20:04:47,1922.0,,matte contraption,312.5
+627,rechargable,mechanism,2013-07-21 04:16:52,412.0,refill,rechargable mechanism refill,15.6
+628,matte,dongle,2013-10-06 20:01:19,835.0,refill,matte dongle refill,30.0
+629,analog,tool,2013-04-09 15:53:42,1488.0,opener,analog tool opener,11.25
+630,reflective,gadget,2013-06-01 13:21:49,745.0,charger,reflective gadget charger,23.14
+631,reflective,device,2013-07-24 17:34:54,3465.0,carrying_case,reflective device carrying_case,39.0
+632,reflective,apparatus,2013-02-26 02:41:23,93.0,wrapper,reflective apparatus wrapper,156.0
+633,industrial-strength,module,2013-10-22 12:16:48,636.0,refill,industrial-strength module refill,240.0
+634,prize-winning,contraption,2013-04-25 02:33:19,1017.0,warmer,prize-winning contraption warmer,302.5
+635,industrial-strength,instrument,2013-04-03 11:22:41,1620.0,charger,industrial-strength instrument charger,26.4
+636,miniature,apparatus,2013-04-21 23:27:34,3368.0,opener,miniature apparatus opener,82.5
+637,matte,module,2014-01-10 02:19:59,836.0,opener,matte module opener,62.5
+638,reflective,device,2013-09-04 18:00:43,1695.0,charger,reflective device charger,13.0
+639,,instrument,2013-04-21 00:09:35,1156.0,,instrument,44.0
+640,,mechanism,2014-02-20 15:21:22,2392.0,,mechanism,15.0
+641,analog,contraption,2013-08-24 21:53:10,2580.0,,analog contraption,225.0
+642,fuzzy,instrument,2014-01-20 22:02:37,674.0,how-to-manual,fuzzy instrument how-to-manual,0.0
+643,extra-strength,dongle,2013-11-25 23:59:32,294.0,wrapper,extra-strength dongle wrapper,24.0
+644,,dongle,2013-04-19 15:42:29,3452.0,storage_unit,dongle storage_unit,75.0
+645,,instrument,2013-10-27 21:48:44,1599.0,carrying_case,instrument carrying_case,26.4
+646,,apparatus,2013-06-29 13:59:04,1791.0,,apparatus,300.0
+647,prize-winning,tool,2014-01-22 23:43:08,461.0,storage_unit,prize-winning tool storage_unit,68.75
+648,extra-strength,mechanism,2013-10-29 00:32:37,3036.0,charger,extra-strength mechanism charger,6.0
+649,industrial-strength,instrument,2013-02-28 01:47:35,1000.0,,industrial-strength instrument,132.0
+650,fuzzy,widget,2013-11-29 22:57:32,909.0,charger,fuzzy widget charger,0.6000000000000001
+651,analog,device,2013-11-09 13:55:58,1755.0,carrying_case,analog device carrying_case,27.0
+652,glossy,mechanism,2013-06-12 14:31:26,78.0,opener,glossy mechanism opener,9.0
+653,,apparatus,2014-01-18 06:09:06,2088.0,,apparatus,300.0
+654,,gadget,2014-01-04 11:09:51,197.0,refill,gadget refill,71.2
+655,digital,widget,2013-10-03 10:29:28,2735.0,wrapper,digital widget wrapper,1.3200000000000005
+656,industrial-strength,instrument,2014-01-22 06:25:45,228.0,opener,industrial-strength instrument opener,66.0
+657,digital,instrument,2014-01-19 18:59:37,1920.0,opener,digital instrument opener,24.200000000000003
+658,,device,2013-08-10 14:32:32,2001.0,,device,50.0
+659,digital,device,2014-01-11 07:04:54,441.0,,digital device,55.00000000000001
+660,organic,dongle,2013-05-01 07:05:00,509.0,storage_unit,organic dongle storage_unit,112.5
+661,matte,module,2013-05-12 15:00:18,2590.0,,matte module,125.0
+662,glossy,tool,2013-03-20 17:01:25,1141.0,,glossy tool,30.0
+663,aerodynamic,module,2013-04-18 12:47:10,3267.0,,aerodynamic module,140.0
+664,matte,module,2013-11-14 15:37:44,2726.0,opener,matte module opener,62.5
+665,organic,module,2013-02-24 13:13:58,6.0,,organic module,150.0
+666,industrial-strength,gadget,2013-08-20 14:57:13,2853.0,opener,industrial-strength gadget opener,133.5
+667,extra-strength,instrument,2013-08-15 15:31:40,601.0,carrying_case,extra-strength instrument carrying_case,52.8
+668,aerodynamic,gadget,2014-02-07 13:46:28,2198.0,,aerodynamic gadget,124.6
+669,industrial-strength,contraption,2013-09-25 16:22:55,1649.0,,industrial-strength contraption,750.0
+670,extra-strength,device,2013-09-30 02:24:57,3806.0,opener,extra-strength device opener,50.0
+671,digital,instrument,2013-08-23 16:28:32,2706.0,carrying_case,digital instrument carrying_case,29.04
+672,matte,device,2013-04-21 11:11:38,194.0,refill,matte device refill,50.0
+673,,mechanism,2014-01-13 07:08:07,3118.0,how-to-manual,mechanism how-to-manual,0.0
+674,prize-winning,gadget,2014-02-25 23:19:47,3188.0,,prize-winning gadget,97.9
+675,matte,widget,2014-02-10 17:49:16,1240.0,how-to-manual,matte widget how-to-manual,0.0
+676,prize-winning,gadget,2013-08-08 08:49:44,2310.0,,prize-winning gadget,97.9
+677,miniature,mechanism,2013-08-27 04:43:15,1860.0,,miniature mechanism,8.25
+678,,mechanism,2013-07-19 07:18:48,3272.0,storage_unit,mechanism storage_unit,37.5
+679,reflective,module,2013-05-10 09:32:57,3254.0,carrying_case,reflective module carrying_case,78.0
+680,glossy,device,2013-03-05 18:13:15,118.0,refill,glossy device refill,48.0
+681,prize-winning,apparatus,2013-07-17 07:07:22,537.0,storage_unit,prize-winning apparatus storage_unit,825.0000000000001
+682,aerodynamic,contraption,2013-10-03 04:37:57,1064.0,warmer,aerodynamic contraption warmer,385.0
+683,extra-strength,gadget,2013-06-06 06:09:56,884.0,opener,extra-strength gadget opener,89.0
+684,analog,tool,2014-01-15 10:28:32,92.0,,analog tool,22.5
+685,miniature,dongle,2013-08-30 07:11:08,1595.0,cleaner,miniature dongle cleaner,9.9
+686,organic,mechanism,2013-12-29 01:04:29,2700.0,,organic mechanism,22.5
+687,analog,contraption,2014-01-14 01:27:16,2440.0,opener,analog contraption opener,112.5
+688,organic,gadget,2013-07-30 22:59:29,3228.0,,organic gadget,133.5
+689,digital,module,2013-05-29 13:02:18,996.0,,digital module,110.0
+690,industrial-strength,widget,2013-12-22 02:32:04,3481.0,,industrial-strength widget,9.0
+691,analog,device,2013-09-02 22:02:04,1630.0,,analog device,45.0
+692,fuzzy,mechanism,2013-03-26 10:17:28,1712.0,opener,fuzzy mechanism opener,7.5
+693,glossy,apparatus,2013-12-26 22:20:37,3279.0,,glossy apparatus,360.0
+694,,gadget,2013-08-31 08:51:04,3017.0,refill,gadget refill,71.2
+695,prize-winning,dongle,2013-11-14 22:10:15,1887.0,how-to-manual,prize-winning dongle how-to-manual,0.0
+696,aerodynamic,widget,2014-02-17 16:38:59,1719.0,,aerodynamic widget,4.199999999999999
+697,industrial-strength,widget,2013-04-21 11:21:16,3316.0,storage_unit,industrial-strength widget storage_unit,22.5
+698,rechargable,instrument,2014-02-11 17:22:02,895.0,wrapper,rechargable instrument wrapper,22.880000000000003
+699,,contraption,2014-02-19 16:24:23,2747.0,charger,contraption charger,50.0
+700,prize-winning,module,2013-06-30 15:30:30,713.0,storage_unit,prize-winning module storage_unit,275.0
+701,analog,mechanism,2013-11-27 12:08:55,3555.0,carrying_case,analog mechanism carrying_case,8.1
+702,extra-strength,device,2013-03-04 12:31:10,3219.0,charger,extra-strength device charger,20.0
+703,prize-winning,dongle,2013-03-19 06:18:05,430.0,charger,prize-winning dongle charger,6.6000000000000005
+704,miniature,dongle,2013-03-29 12:50:13,2525.0,refill,miniature dongle refill,13.2
+705,organic,dongle,2013-12-23 17:13:57,2318.0,carrying_case,organic dongle carrying_case,27.0
+706,aerodynamic,apparatus,2014-01-15 10:41:51,921.0,,aerodynamic apparatus,420.0
+707,industrial-strength,dongle,2013-12-27 12:09:16,3309.0,,industrial-strength dongle,90.0
+708,aerodynamic,mechanism,2013-08-20 13:38:27,2560.0,,aerodynamic mechanism,21.0
+709,industrial-strength,gadget,2014-01-12 07:48:15,1969.0,carrying_case,industrial-strength gadget carrying_case,160.2
+710,analog,dongle,2013-09-03 23:08:49,3024.0,carrying_case,analog dongle carrying_case,16.2
+711,,instrument,2013-06-15 14:14:54,210.0,cleaner,instrument cleaner,26.4
+712,prize-winning,apparatus,2014-02-22 12:01:40,3471.0,,prize-winning apparatus,330.0
+713,reflective,mechanism,2013-03-08 08:01:19,1621.0,opener,reflective mechanism opener,9.75
+714,glossy,gadget,2014-02-02 17:54:29,406.0,how-to-manual,glossy gadget how-to-manual,0.0
+715,digital,mechanism,2013-07-10 03:38:27,2610.0,wrapper,digital mechanism wrapper,6.6000000000000005
+716,,module,2013-08-23 16:22:01,2167.0,opener,module opener,50.0
+717,prize-winning,tool,2013-12-30 01:30:56,2672.0,refill,prize-winning tool refill,22.0
+718,reflective,contraption,2013-05-23 13:20:39,3346.0,,reflective contraption,325.0
+719,glossy,tool,2013-07-11 17:02:22,1740.0,,glossy tool,30.0
+720,prize-winning,instrument,2013-07-28 03:23:11,55.0,charger,prize-winning instrument charger,9.68
+721,rechargable,gadget,2013-08-25 13:20:26,2785.0,,rechargable gadget,115.7
+722,industrial-strength,widget,2014-02-09 23:23:48,1796.0,storage_unit,industrial-strength widget storage_unit,22.5
+723,analog,tool,2013-03-25 17:21:40,2094.0,,analog tool,22.5
+724,organic,apparatus,2014-02-15 03:18:29,575.0,charger,organic apparatus charger,90.0
+725,fuzzy,module,2013-03-24 17:01:45,3594.0,,fuzzy module,100.0
+726,analog,apparatus,2013-07-19 11:52:21,426.0,wrapper,analog apparatus wrapper,108.0
+727,glossy,device,2013-03-14 08:07:59,1277.0,storage_unit,glossy device storage_unit,150.0
+728,reflective,mechanism,2013-10-09 21:10:50,981.0,refill,reflective mechanism refill,15.6
+729,rechargable,mechanism,2014-01-09 10:22:33,2641.0,cleaner,rechargable mechanism cleaner,11.7
+730,matte,dongle,2013-09-09 00:58:20,1955.0,refill,matte dongle refill,30.0
+731,fuzzy,dongle,2013-06-16 07:09:53,1445.0,charger,fuzzy dongle charger,6.0
+732,organic,mechanism,2013-11-22 08:22:59,3137.0,refill,organic mechanism refill,18.0
+733,,contraption,2013-03-29 04:21:31,2267.0,carrying_case,contraption carrying_case,150.0
+734,fuzzy,contraption,2013-10-03 01:22:27,2065.0,,fuzzy contraption,250.0
+735,fuzzy,tool,2013-11-23 04:52:33,840.0,,fuzzy tool,25.0
+736,extra-strength,dongle,2013-07-10 08:25:44,1698.0,storage_unit,extra-strength dongle storage_unit,150.0
+737,digital,gadget,2013-12-31 05:06:52,1645.0,carrying_case,digital gadget carrying_case,58.74
+738,matte,apparatus,2013-06-05 04:11:08,2682.0,cleaner,matte apparatus cleaner,225.0
+739,miniature,device,2014-01-29 06:27:49,927.0,,miniature device,27.500000000000004
+740,prize-winning,gadget,2013-09-21 12:58:51,172.0,opener,prize-winning gadget opener,48.95
+741,extra-strength,instrument,2014-01-27 11:41:14,1873.0,how-to-manual,extra-strength instrument how-to-manual,0.0
+742,,device,2013-05-30 19:31:30,3149.0,storage_unit,device storage_unit,125.0
+743,reflective,gadget,2013-09-17 12:39:34,3992.0,,reflective gadget,115.7
+744,reflective,gadget,2013-12-19 01:34:49,1724.0,,reflective gadget,115.7
+745,reflective,gadget,2013-07-20 10:45:06,2787.0,refill,reflective gadget refill,92.56
+746,digital,instrument,2013-09-11 23:20:43,1372.0,,digital instrument,48.400000000000006
+747,prize-winning,apparatus,2013-07-28 09:11:33,328.0,,prize-winning apparatus,330.0
+748,reflective,device,2013-11-09 04:58:16,801.0,,reflective device,65.0
+749,,dongle,2013-06-18 22:12:19,3078.0,storage_unit,dongle storage_unit,75.0
+750,analog,module,2013-05-02 11:37:45,3795.0,,analog module,90.0
+751,analog,gadget,2013-07-01 10:38:12,1497.0,wrapper,analog gadget wrapper,32.04
+752,prize-winning,gadget,2013-10-21 21:16:35,2808.0,,prize-winning gadget,97.9
+753,aerodynamic,mechanism,2013-08-06 10:53:33,27.0,,aerodynamic mechanism,21.0
+754,glossy,module,2013-10-11 22:33:47,495.0,storage_unit,glossy module storage_unit,300.0
+755,reflective,apparatus,2013-09-18 02:09:02,85.0,,reflective apparatus,390.0
+756,,widget,2013-05-04 16:33:27,1376.0,charger,widget charger,0.6000000000000001
+757,prize-winning,instrument,2013-04-18 09:10:37,2007.0,how-to-manual,prize-winning instrument how-to-manual,0.0
+758,extra-strength,mechanism,2013-09-04 04:48:05,511.0,storage_unit,extra-strength mechanism storage_unit,75.0
+759,extra-strength,module,2014-01-14 04:40:06,3877.0,how-to-manual,extra-strength module how-to-manual,0.0
+760,industrial-strength,instrument,2013-07-06 23:47:26,814.0,carrying_case,industrial-strength instrument carrying_case,79.19999999999999
+761,miniature,mechanism,2013-07-02 20:28:07,1049.0,,miniature mechanism,8.25
+762,reflective,instrument,2013-11-22 09:50:48,3418.0,storage_unit,reflective instrument storage_unit,143.0
+763,matte,widget,2013-04-18 16:19:04,3498.0,charger,matte widget charger,0.7500000000000001
+764,extra-strength,gadget,2013-04-17 05:44:52,295.0,,extra-strength gadget,178.0
+765,fuzzy,gadget,2013-10-22 02:23:26,1738.0,storage_unit,fuzzy gadget storage_unit,222.5
+766,aerodynamic,instrument,2014-01-28 10:00:02,240.0,,aerodynamic instrument,61.6
+767,matte,device,2013-08-06 21:56:52,2380.0,charger,matte device charger,12.5
+768,analog,gadget,2014-02-20 03:33:30,2839.0,warmer,analog gadget warmer,88.11000000000001
+769,fuzzy,device,2013-10-11 14:17:29,2810.0,wrapper,fuzzy device wrapper,20.0
+770,rechargable,apparatus,2013-06-23 11:38:01,3969.0,charger,rechargable apparatus charger,78.0
+771,extra-strength,apparatus,2013-08-07 05:33:02,876.0,warmer,extra-strength apparatus warmer,660.0
+772,aerodynamic,gadget,2014-01-03 05:02:53,394.0,cleaner,aerodynamic gadget cleaner,74.75999999999999
+773,fuzzy,apparatus,2014-01-09 12:07:51,3649.0,,fuzzy apparatus,300.0
+774,glossy,gadget,2014-01-23 23:18:19,1143.0,carrying_case,glossy gadget carrying_case,64.08
+775,digital,mechanism,2013-04-19 02:08:29,2238.0,carrying_case,digital mechanism carrying_case,9.9
+776,extra-strength,instrument,2013-05-19 19:40:04,3.0,storage_unit,extra-strength instrument storage_unit,220.0
+777,,gadget,2013-05-12 08:40:06,1098.0,cleaner,gadget cleaner,53.4
+778,miniature,mechanism,2013-10-09 15:39:04,2823.0,,miniature mechanism,8.25
+779,glossy,dongle,2014-01-28 09:14:35,2768.0,,glossy dongle,36.0
+780,glossy,mechanism,2013-05-07 16:32:01,286.0,charger,glossy mechanism charger,3.6
+781,,contraption,2013-10-19 04:29:29,1117.0,cleaner,contraption cleaner,150.0
+782,extra-strength,mechanism,2013-12-09 19:08:42,2297.0,,extra-strength mechanism,30.0
+783,glossy,device,2013-10-07 20:51:15,2499.0,carrying_case,glossy device carrying_case,36.0
+784,miniature,gadget,2014-01-16 23:36:46,3861.0,carrying_case,miniature gadget carrying_case,29.37
+785,rechargable,module,2013-10-28 23:51:10,923.0,carrying_case,rechargable module carrying_case,78.0
+786,,mechanism,2013-05-29 23:21:02,3840.0,wrapper,mechanism wrapper,6.0
+787,fuzzy,apparatus,2013-11-28 10:18:10,1917.0,carrying_case,fuzzy apparatus carrying_case,180.0
+788,prize-winning,mechanism,2013-06-22 17:55:13,499.0,cleaner,prize-winning mechanism cleaner,9.9
+789,matte,instrument,2013-04-20 22:13:38,1382.0,,matte instrument,55.0
+790,,contraption,2014-02-07 15:27:07,3387.0,charger,contraption charger,50.0
+791,rechargable,apparatus,2013-03-08 12:50:38,2327.0,wrapper,rechargable apparatus wrapper,156.0
+792,fuzzy,dongle,2013-09-04 01:53:54,2978.0,,fuzzy dongle,30.0
+793,glossy,module,2013-12-13 13:54:28,3330.0,cleaner,glossy module cleaner,72.0
+794,fuzzy,module,2013-12-18 03:03:08,1171.0,,fuzzy module,100.0
+795,matte,mechanism,2013-04-13 00:58:40,2951.0,,matte mechanism,18.75
+796,matte,contraption,2013-07-14 11:34:21,2431.0,,matte contraption,312.5
+797,reflective,mechanism,2013-02-26 23:46:15,1280.0,charger,reflective mechanism charger,3.9
+798,reflective,mechanism,2013-09-23 12:43:21,399.0,wrapper,reflective mechanism wrapper,7.800000000000001
+799,rechargable,module,2013-05-21 14:10:55,433.0,refill,rechargable module refill,104.0
+800,prize-winning,dongle,2013-04-17 17:22:44,310.0,,prize-winning dongle,33.0
+801,aerodynamic,apparatus,2013-03-14 03:19:47,1510.0,,aerodynamic apparatus,420.0
+802,miniature,module,2013-10-03 06:26:32,306.0,charger,miniature module charger,11.0
+803,industrial-strength,tool,2013-07-14 12:36:20,2078.0,,industrial-strength tool,75.0
+804,analog,widget,2013-09-24 04:04:42,209.0,opener,analog widget opener,1.35
+805,aerodynamic,gadget,2013-12-28 13:36:14,3047.0,charger,aerodynamic gadget charger,24.92
+806,extra-strength,tool,2014-02-12 10:45:15,2899.0,,extra-strength tool,50.0
+807,organic,instrument,2014-02-03 09:51:38,257.0,storage_unit,organic instrument storage_unit,165.0
+808,digital,dongle,2013-03-14 22:44:12,2678.0,,digital dongle,33.0
+809,analog,mechanism,2013-04-16 07:18:30,125.0,,analog mechanism,13.5
+810,aerodynamic,gadget,2013-07-15 03:38:59,2215.0,storage_unit,aerodynamic gadget storage_unit,311.5
+811,reflective,apparatus,2013-09-15 05:52:04,988.0,cleaner,reflective apparatus cleaner,234.0
+812,rechargable,device,2013-04-04 05:22:33,1551.0,,rechargable device,65.0
+813,industrial-strength,instrument,2013-08-02 10:39:01,2386.0,storage_unit,industrial-strength instrument storage_unit,330.0
+814,,module,2013-09-28 06:57:40,3168.0,,module,100.0
+815,fuzzy,mechanism,2013-04-26 16:23:04,2724.0,cleaner,fuzzy mechanism cleaner,9.0
+816,extra-strength,module,2014-01-23 12:01:45,1200.0,warmer,extra-strength module warmer,220.00000000000003
+817,aerodynamic,dongle,2013-12-27 22:25:39,3619.0,,aerodynamic dongle,42.0
+818,reflective,mechanism,2013-04-07 14:23:41,2368.0,how-to-manual,reflective mechanism how-to-manual,0.0
+819,aerodynamic,apparatus,2013-08-31 05:46:24,506.0,wrapper,aerodynamic apparatus wrapper,168.0
+820,prize-winning,mechanism,2013-07-06 06:23:54,1062.0,warmer,prize-winning mechanism warmer,18.15
+821,fuzzy,device,2013-08-19 11:12:18,1256.0,how-to-manual,fuzzy device how-to-manual,0.0
+822,organic,apparatus,2013-10-15 17:43:11,3793.0,how-to-manual,organic apparatus how-to-manual,0.0
+823,reflective,gadget,2013-11-15 20:08:41,211.0,charger,reflective gadget charger,23.14
+824,industrial-strength,module,2013-04-07 02:08:00,3974.0,,industrial-strength module,300.0
+825,industrial-strength,dongle,2013-11-04 13:42:14,3229.0,,industrial-strength dongle,90.0
+826,digital,instrument,2014-02-16 02:41:26,3249.0,warmer,digital instrument warmer,53.24000000000001
+827,,mechanism,2013-03-30 04:00:26,1238.0,opener,mechanism opener,7.5
+828,reflective,dongle,2013-10-05 04:41:58,3756.0,,reflective dongle,39.0
+829,industrial-strength,dongle,2014-01-10 20:00:29,1839.0,,industrial-strength dongle,90.0
+830,analog,device,2013-12-07 17:33:12,620.0,storage_unit,analog device storage_unit,112.5
+831,reflective,instrument,2013-12-10 13:44:00,1056.0,warmer,reflective instrument warmer,62.92000000000001
+832,extra-strength,gadget,2014-02-17 14:56:42,3644.0,carrying_case,extra-strength gadget carrying_case,106.8
+833,reflective,instrument,2013-12-16 23:10:16,642.0,,reflective instrument,57.2
+834,,tool,2013-08-25 20:31:32,1808.0,charger,tool charger,5.0
+835,glossy,module,2014-01-22 17:02:50,1613.0,,glossy module,120.0
+836,prize-winning,device,2013-12-18 15:22:14,3748.0,storage_unit,prize-winning device storage_unit,137.5
+837,prize-winning,contraption,2013-12-11 12:10:42,1881.0,,prize-winning contraption,275.0
+838,industrial-strength,module,2013-08-02 15:28:05,2836.0,storage_unit,industrial-strength module storage_unit,750.0
+839,matte,device,2013-07-21 11:16:07,2074.0,storage_unit,matte device storage_unit,156.25
+840,aerodynamic,gadget,2013-03-30 13:31:28,275.0,,aerodynamic gadget,124.6
+841,,contraption,2013-11-02 18:27:24,2957.0,,contraption,250.0
+842,analog,gadget,2013-11-22 04:33:31,2931.0,wrapper,analog gadget wrapper,32.04
+843,industrial-strength,mechanism,2013-06-29 08:03:18,3824.0,wrapper,industrial-strength mechanism wrapper,18.0
+844,prize-winning,module,2013-12-04 13:58:32,2077.0,carrying_case,prize-winning module carrying_case,66.0
+845,reflective,dongle,2013-09-27 17:07:50,2909.0,warmer,reflective dongle warmer,42.9
+846,,tool,2013-08-31 04:48:54,109.0,,tool,25.0
+847,prize-winning,contraption,2013-10-25 19:35:38,183.0,storage_unit,prize-winning contraption storage_unit,687.5
+848,,tool,2013-05-17 06:08:47,472.0,,tool,25.0
+849,rechargable,instrument,2013-08-10 09:14:58,3133.0,opener,rechargable instrument opener,28.6
+850,fuzzy,instrument,2014-02-14 18:52:27,3443.0,charger,fuzzy instrument charger,8.8
+851,organic,module,2013-10-23 23:08:22,3001.0,wrapper,organic module wrapper,60.0
+852,miniature,instrument,2013-05-23 05:34:01,3921.0,refill,miniature instrument refill,19.360000000000003
+853,reflective,instrument,2013-09-24 10:50:49,3781.0,storage_unit,reflective instrument storage_unit,143.0
+854,analog,mechanism,2013-04-05 04:02:08,1980.0,wrapper,analog mechanism wrapper,5.4
+855,aerodynamic,widget,2013-10-31 07:43:27,3253.0,wrapper,aerodynamic widget wrapper,1.6800000000000002
+856,miniature,gadget,2013-09-27 08:03:24,1003.0,,miniature gadget,48.95
+857,organic,tool,2014-01-19 15:17:34,1109.0,storage_unit,organic tool storage_unit,93.75
+858,miniature,module,2013-07-04 10:03:51,727.0,warmer,miniature module warmer,60.500000000000014
+859,industrial-strength,tool,2013-09-21 12:21:19,2194.0,wrapper,industrial-strength tool wrapper,30.0
+860,prize-winning,module,2013-08-12 14:10:26,1666.0,warmer,prize-winning module warmer,121.00000000000004
+861,digital,mechanism,2013-09-22 13:52:05,2653.0,,digital mechanism,16.5
+862,digital,apparatus,2013-07-20 15:28:28,1833.0,carrying_case,digital apparatus carrying_case,198.00000000000003
+863,,device,2014-02-25 05:08:53,135.0,how-to-manual,device how-to-manual,0.0
+864,aerodynamic,module,2013-03-07 06:38:56,333.0,,aerodynamic module,140.0
+865,prize-winning,contraption,2013-05-23 04:21:03,400.0,,prize-winning contraption,275.0
+866,glossy,instrument,2013-07-01 10:39:07,180.0,,glossy instrument,52.8
+867,industrial-strength,gadget,2014-01-29 17:17:54,2857.0,,industrial-strength gadget,267.0
+868,reflective,tool,2013-08-20 19:46:40,655.0,wrapper,reflective tool wrapper,13.0
+869,fuzzy,dongle,2013-12-07 06:42:59,3670.0,,fuzzy dongle,30.0
+870,rechargable,device,2014-02-03 05:40:20,3085.0,,rechargable device,65.0
+871,,tool,2013-07-04 14:35:37,1946.0,charger,tool charger,5.0
+872,reflective,gadget,2013-05-08 01:21:35,3491.0,wrapper,reflective gadget wrapper,46.28
+873,prize-winning,gadget,2013-05-18 00:02:15,999.0,,prize-winning gadget,97.9
+874,,apparatus,2013-03-04 21:47:15,3914.0,charger,apparatus charger,60.0
+875,glossy,widget,2013-09-13 16:52:34,2028.0,,glossy widget,3.6
+876,extra-strength,apparatus,2013-06-21 07:58:51,1342.0,,extra-strength apparatus,600.0
+877,organic,dongle,2013-02-26 18:24:13,3015.0,charger,organic dongle charger,9.0
+878,miniature,tool,2013-07-01 13:11:47,3317.0,opener,miniature tool opener,6.875000000000001
+879,reflective,gadget,2013-06-09 11:57:16,3918.0,warmer,reflective gadget warmer,127.27
+880,aerodynamic,module,2013-08-10 09:55:04,3599.0,refill,aerodynamic module refill,112.0
+881,aerodynamic,module,2013-09-30 11:32:06,3764.0,,aerodynamic module,140.0
+882,matte,apparatus,2013-03-04 23:24:06,3223.0,cleaner,matte apparatus cleaner,225.0
+883,prize-winning,dongle,2013-03-12 07:04:09,2180.0,storage_unit,prize-winning dongle storage_unit,82.5
+884,organic,apparatus,2013-12-05 10:12:12,3455.0,,organic apparatus,450.0
+885,prize-winning,gadget,2013-12-08 17:00:20,1268.0,storage_unit,prize-winning gadget storage_unit,244.75000000000003
+886,extra-strength,contraption,2013-09-19 23:15:58,2592.0,storage_unit,extra-strength contraption storage_unit,1250.0
+887,digital,tool,2013-04-29 00:43:54,3635.0,warmer,digital tool warmer,30.250000000000007
+888,industrial-strength,mechanism,2013-04-10 00:33:57,3304.0,,industrial-strength mechanism,45.0
+889,digital,widget,2013-11-10 18:31:28,1311.0,storage_unit,digital widget storage_unit,8.25
+890,prize-winning,mechanism,2013-04-19 06:10:19,1357.0,warmer,prize-winning mechanism warmer,18.15
+891,organic,tool,2013-10-12 05:10:14,2330.0,charger,organic tool charger,7.5
+892,,mechanism,2013-09-05 02:19:49,2290.0,cleaner,mechanism cleaner,9.0
+893,matte,contraption,2013-11-10 08:58:29,530.0,storage_unit,matte contraption storage_unit,781.25
+894,digital,mechanism,2014-01-10 18:17:32,1507.0,how-to-manual,digital mechanism how-to-manual,0.0
+895,prize-winning,contraption,2013-04-29 20:21:44,1789.0,,prize-winning contraption,275.0
+896,aerodynamic,contraption,2013-09-02 04:40:32,2575.0,warmer,aerodynamic contraption warmer,385.0
+897,analog,module,2013-12-01 22:50:12,3187.0,,analog module,90.0
+898,industrial-strength,dongle,2013-05-14 13:12:02,570.0,,industrial-strength dongle,90.0
+899,organic,gadget,2013-03-23 09:08:37,3404.0,charger,organic gadget charger,26.700000000000003
+900,miniature,mechanism,2013-04-30 19:10:13,3251.0,refill,miniature mechanism refill,6.6000000000000005
+901,rechargable,instrument,2013-07-14 22:11:14,3061.0,how-to-manual,rechargable instrument how-to-manual,0.0
+902,glossy,mechanism,2013-06-24 23:26:32,2949.0,refill,glossy mechanism refill,14.4
+903,analog,tool,2013-11-16 15:01:07,2232.0,opener,analog tool opener,11.25
+904,,widget,2013-11-01 01:24:51,3993.0,refill,widget refill,2.4000000000000004
+905,glossy,dongle,2013-05-26 21:19:45,3302.0,opener,glossy dongle opener,18.0
+906,miniature,device,2013-12-15 20:14:47,898.0,storage_unit,miniature device storage_unit,68.75
+907,reflective,dongle,2013-11-04 01:12:41,1034.0,,reflective dongle,39.0
+908,extra-strength,tool,2013-09-27 23:21:46,1508.0,warmer,extra-strength tool warmer,55.00000000000001
+909,extra-strength,module,2013-12-17 00:33:43,2841.0,,extra-strength module,200.0
+910,fuzzy,contraption,2013-03-28 18:01:31,1204.0,,fuzzy contraption,250.0
+911,prize-winning,widget,2013-11-27 18:57:34,3753.0,wrapper,prize-winning widget wrapper,1.3200000000000005
+912,industrial-strength,apparatus,2013-12-31 10:55:58,2292.0,warmer,industrial-strength apparatus warmer,990.0
+913,miniature,mechanism,2013-07-16 22:38:24,2384.0,,miniature mechanism,8.25
+914,fuzzy,dongle,2014-01-30 14:24:16,696.0,how-to-manual,fuzzy dongle how-to-manual,0.0
+915,organic,instrument,2013-03-11 14:38:27,3632.0,carrying_case,organic instrument carrying_case,39.6
+916,aerodynamic,device,2013-08-13 04:32:23,1978.0,wrapper,aerodynamic device wrapper,28.0
+917,miniature,gadget,2013-09-17 17:23:41,1954.0,storage_unit,miniature gadget storage_unit,122.375
+918,fuzzy,module,2013-07-26 13:35:09,1672.0,storage_unit,fuzzy module storage_unit,250.0
+919,glossy,tool,2013-10-14 21:30:22,3982.0,wrapper,glossy tool wrapper,12.0
+920,extra-strength,apparatus,2013-03-07 05:09:23,637.0,refill,extra-strength apparatus refill,480.0
+921,reflective,dongle,2013-04-09 02:05:32,2357.0,how-to-manual,reflective dongle how-to-manual,0.0
+922,matte,instrument,2014-02-21 02:27:36,989.0,cleaner,matte instrument cleaner,33.0
+923,extra-strength,module,2013-04-09 04:36:51,3786.0,,extra-strength module,200.0
+924,aerodynamic,device,2013-09-29 19:26:13,3358.0,,aerodynamic device,70.0
+925,fuzzy,instrument,2013-06-26 02:22:37,3994.0,cleaner,fuzzy instrument cleaner,26.4
+926,industrial-strength,contraption,2013-11-21 14:17:54,698.0,,industrial-strength contraption,750.0
+927,fuzzy,device,2013-10-26 02:02:22,1710.0,charger,fuzzy device charger,10.0
+928,glossy,tool,2013-03-24 08:52:00,1093.0,,glossy tool,30.0
+929,matte,widget,2014-02-17 04:26:47,2759.0,refill,matte widget refill,3.0000000000000004
+930,organic,instrument,2013-08-23 07:41:43,2453.0,,organic instrument,66.0
+931,reflective,instrument,2013-03-28 07:33:30,3289.0,,reflective instrument,57.2
+932,glossy,module,2013-04-18 16:14:34,3718.0,storage_unit,glossy module storage_unit,300.0
+933,extra-strength,dongle,2013-06-13 08:29:11,1994.0,wrapper,extra-strength dongle wrapper,24.0
+934,digital,dongle,2013-09-13 06:46:57,3281.0,charger,digital dongle charger,6.6000000000000005
+935,fuzzy,instrument,2013-04-28 12:33:39,904.0,charger,fuzzy instrument charger,8.8
+936,fuzzy,apparatus,2013-06-07 19:34:16,3900.0,storage_unit,fuzzy apparatus storage_unit,750.0
+937,analog,mechanism,2013-08-19 11:41:32,684.0,,analog mechanism,13.5
+938,,instrument,2013-05-17 04:00:12,278.0,,instrument,44.0
+939,prize-winning,tool,2013-11-25 05:15:27,349.0,,prize-winning tool,27.500000000000004
+940,industrial-strength,mechanism,2014-02-02 05:41:35,720.0,,industrial-strength mechanism,45.0
+941,reflective,instrument,2013-09-08 05:37:17,3957.0,,reflective instrument,57.2
+942,reflective,contraption,2014-01-04 11:02:13,1893.0,wrapper,reflective contraption wrapper,130.0
+943,extra-strength,tool,2014-01-22 04:00:35,942.0,,extra-strength tool,50.0
+944,miniature,apparatus,2013-04-24 16:38:32,1314.0,refill,miniature apparatus refill,132.0
+945,organic,apparatus,2013-06-10 06:16:15,3765.0,charger,organic apparatus charger,90.0
+946,glossy,tool,2013-09-23 02:51:50,2984.0,,glossy tool,30.0
+947,aerodynamic,instrument,2013-09-26 22:45:46,2421.0,warmer,aerodynamic instrument warmer,67.76
+948,reflective,mechanism,2013-10-29 06:06:16,449.0,wrapper,reflective mechanism wrapper,7.800000000000001
+949,extra-strength,device,2013-11-16 08:53:42,2185.0,cleaner,extra-strength device cleaner,60.0
+950,prize-winning,widget,2013-08-14 10:58:15,2168.0,cleaner,prize-winning widget cleaner,1.98
+951,industrial-strength,dongle,2013-07-19 03:16:19,456.0,,industrial-strength dongle,90.0
+952,aerodynamic,contraption,2013-03-10 02:29:53,3637.0,,aerodynamic contraption,350.0
+953,,apparatus,2014-02-10 06:10:19,3360.0,opener,apparatus opener,150.0
+954,organic,tool,2013-06-06 08:07:43,58.0,refill,organic tool refill,30.0
+955,digital,mechanism,2013-10-10 21:29:08,1865.0,refill,digital mechanism refill,13.2
+956,prize-winning,widget,2013-06-02 03:05:26,2749.0,warmer,prize-winning widget warmer,3.630000000000001
+957,organic,contraption,2014-01-21 10:56:10,1604.0,how-to-manual,organic contraption how-to-manual,0.0
+958,,module,2013-10-24 04:33:39,3310.0,refill,module refill,80.0
+959,analog,instrument,2013-05-09 20:01:53,3598.0,,analog instrument,39.6
+960,rechargable,mechanism,2013-04-14 17:35:41,1799.0,,rechargable mechanism,19.5
+961,miniature,module,2013-08-03 19:40:05,611.0,warmer,miniature module warmer,60.500000000000014
+962,industrial-strength,device,2013-05-25 01:17:16,841.0,,industrial-strength device,150.0
+963,prize-winning,widget,2013-12-14 11:45:51,3917.0,warmer,prize-winning widget warmer,3.630000000000001
+964,prize-winning,instrument,2013-12-22 22:53:16,810.0,how-to-manual,prize-winning instrument how-to-manual,0.0
+965,,widget,2013-04-17 04:53:55,3450.0,refill,widget refill,2.4000000000000004
+966,aerodynamic,apparatus,2013-08-15 12:43:50,3218.0,charger,aerodynamic apparatus charger,84.0
+967,digital,widget,2013-09-14 04:54:30,1366.0,,digital widget,3.3000000000000003
+968,,mechanism,2013-03-28 06:20:14,2568.0,,mechanism,15.0
+969,industrial-strength,mechanism,2013-07-21 17:53:03,795.0,charger,industrial-strength mechanism charger,9.0
+970,rechargable,module,2013-12-07 15:01:03,757.0,,rechargable module,130.0
+971,prize-winning,instrument,2013-10-15 05:49:20,1276.0,warmer,prize-winning instrument warmer,53.24000000000001
+972,aerodynamic,widget,2013-12-07 13:13:05,2718.0,storage_unit,aerodynamic widget storage_unit,10.5
+973,prize-winning,dongle,2013-05-03 11:57:40,1825.0,storage_unit,prize-winning dongle storage_unit,82.5
+974,glossy,gadget,2013-11-18 22:07:11,1081.0,charger,glossy gadget charger,21.36
+975,,mechanism,2013-03-26 21:44:11,1793.0,cleaner,mechanism cleaner,9.0
+976,,dongle,2013-05-10 23:22:59,1659.0,storage_unit,dongle storage_unit,75.0
+977,analog,dongle,2013-07-11 16:50:01,2982.0,,analog dongle,27.0
+978,industrial-strength,mechanism,2013-08-21 05:12:09,3613.0,storage_unit,industrial-strength mechanism storage_unit,112.5
+979,prize-winning,tool,2013-12-23 07:42:15,338.0,how-to-manual,prize-winning tool how-to-manual,0.0
+980,industrial-strength,apparatus,2013-08-14 21:21:35,2417.0,opener,industrial-strength apparatus opener,450.0
+981,analog,widget,2014-01-29 10:07:43,3329.0,carrying_case,analog widget carrying_case,1.62
+982,rechargable,gadget,2013-10-20 22:29:27,2863.0,cleaner,rechargable gadget cleaner,69.42
+983,prize-winning,dongle,2013-05-14 08:46:01,2865.0,how-to-manual,prize-winning dongle how-to-manual,0.0
+984,organic,device,2013-06-03 00:54:27,3924.0,how-to-manual,organic device how-to-manual,0.0
+985,extra-strength,module,2013-12-19 04:23:01,2844.0,,extra-strength module,200.0
+986,matte,mechanism,2013-09-17 17:47:28,36.0,cleaner,matte mechanism cleaner,11.25
+987,prize-winning,contraption,2013-05-20 20:42:58,3117.0,,prize-winning contraption,275.0
+988,aerodynamic,contraption,2013-09-20 10:41:16,3754.0,,aerodynamic contraption,350.0
+989,rechargable,instrument,2013-08-29 21:38:32,3367.0,,rechargable instrument,57.2
+990,fuzzy,apparatus,2013-10-23 10:12:53,918.0,how-to-manual,fuzzy apparatus how-to-manual,0.0
+991,organic,apparatus,2014-01-18 15:36:54,3884.0,,organic apparatus,450.0
+992,rechargable,dongle,2013-07-09 04:35:52,2399.0,how-to-manual,rechargable dongle how-to-manual,0.0
+993,industrial-strength,gadget,2013-04-18 07:30:10,3336.0,charger,industrial-strength gadget charger,53.400000000000006
+994,industrial-strength,dongle,2013-04-16 16:21:27,2367.0,,industrial-strength dongle,90.0
+995,fuzzy,tool,2013-07-03 02:42:19,3030.0,carrying_case,fuzzy tool carrying_case,15.0
+996,miniature,module,2013-08-19 13:41:16,3835.0,cleaner,miniature module cleaner,33.0
+997,organic,gadget,2013-05-15 13:03:24,2875.0,,organic gadget,133.5
+998,,instrument,2013-07-23 19:53:12,3051.0,,instrument,44.0
+999,digital,tool,2013-04-25 23:47:08,772.0,opener,digital tool opener,13.750000000000002
